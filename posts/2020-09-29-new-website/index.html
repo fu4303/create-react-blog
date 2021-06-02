@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[9] A Brand New Website and a Lot of React | Create React App Blog</title>
+  <meta name="description" content="Web Dev Tools, Productivity Tips &amp; Stories About My Journey to Become a Developer">
+
+  <link rel="shortcut icon" href="/eleventy-stylus-blog-theme/static/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/eleventy-stylus-blog-theme/static/css/main.css" media="all">
+
+</head>
+<body>
+  
+<nav class="navbar">
+  <div class="navbar__inner">
+    <a class="navbar__logo" href="/eleventy-stylus-blog-theme/">Create React App Blog</a>
+
+    <div class="navbar__mobile-options">
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/eleventy-stylus-blog-theme/static/img/moon.svg" alt="">
+      </div>
+      <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
+          <path d="M0 0h24v24H0z" fill="none"/>
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="navbar__links">
+      
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/">
+          Home
+        </a>
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/pages/about/">
+          About
+        </a>
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/tags/">
+          Tags
+        </a>
+
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/eleventy-stylus-blog-theme/static/img/moon.svg" alt="">
+      </div>
+
+    </div>
+  </div>
+
+  <div class="navbar__mobile-links">
+    
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/">
+        Home
+      </a>
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/pages/about/">
+        About
+      </a>
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/tags/">
+        Tags
+      </a>
+  </div>
+
+</nav>
+
+  
+<div class="container-sm">
+  <h1>[9] A Brand New Website and a Lot of React</h1>
+  <p>So, as it may be understood from the title of this post, I have made a <a href="https://proj.create-react-app.com/">new website</a> for my projects. This is not exactly a portfolio or a CV, but something like that. There I put everything that I do during <a href="https://create-react-app.com/my-studies-at-the-university/">my studies at the university</a> and the self-studies.</p>
+<h3>v. 1 - Skeleton</h3>
+<p>The <a href="https://old.create-react-app.com/Projects/Skeleton/index.html">first version</a> of the website was made almost a year ago as a web programming <a href="https://opetustarjontahaku.lab.fi/search.php#result-13407">course</a> assignment. That time I used <a href="http://getskeleton.com/">Skeleton</a>, which is a very simple responsive CSS boilerplate, not so powerful as Bootstrap, but much easier to use. This version of the site was not so fancy, and, in a big way, just a &quot;copy/paste&quot; project from different tutorials.</p>
+<p><img src="https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-29-at-16.04.39-1024x648.png" alt=""></p>
+<h3>v. 2 - HTML, CSS, JS</h3>
+<p>After a few months, I realized that I want to make a more &quot;stylish&quot; <a href="https://old.create-react-app.com/">website</a>, for which I will not be so ashamed and even can show to someone. That time I decided not to use any kind of frameworks, and go with just HTML, CSS, and JS. I used a flexbox for styling components and implemented some more complicated things (e.g., glitching logo) if you compare it to the previous version. Anyway, the result turned out not to be so impressive.</p>
+<p><img src="https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-29-at-16.04.51-1024x520.png" alt=""></p>
+<h3>v. 3 - React</h3>
+<p>Finally, about two weeks ago, I started to work on the <a href="https://proj.create-react-app.com/">current version of the website</a>. I decided not to rework the previous versions, but to make it all over again from the scratch. This time I took React as a web framework. I like React for the possibility to write JSX, the hooks system, and the variety of third-party libraries.</p>
+<p><img src="https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-28-at-22.30.55-1024x538.png" alt=""></p>
+<p>At the moment, I use the VS Code as an editor, and I am also using several add-ons for my VS Code setup, e.g., Prettier, ESLint, Bracket Pair Colorizer, etc. I tried many color themes as well but barely could use nothing other but standard Dark+.</p>
+<p>I divided my project into many parts, which is quite typical for React development. There are all the components that are placed on the main App.js component:</p>
+<pre><code>├── Board.js
+├── ChipCloud.js
+├── Drop.js
+├── Dropdown.js
+├── Footer.js
+├── Grid.js
+├── GridItem.js
+├── Menu.js
+├── Screens.js
+├── Stats.js
+├── Switch.js
+├── Timeline.js
+└── Toggle.js
+</code></pre>
+<p>In this project, I noticed that grid and flexbox could work in symbiosis, so I used both. As third-party libraries, I used <a href="https://material-ui.com/">Material - UI</a>, <a href="https://ant.design/">Ant Design</a>, and <a href="https://react-bootstrap.github.io/">React Bootstrap</a>. Mostly it is very convenient for styling the drop-down menu, buttons, and so on. This time it was also a bit difficult to make all media queries since the site comprises a lot of components. So it took some amount of time to realize that the media queries for Safari could be done like that:</p>
+<pre><code>@media not all and (min-resolution: 0.001dpcm) {
+  @media only screen and (max-width: 1900px) {
+  }
+}
+</code></pre>
+<p><a href="https://proj.create-react-app.com/">The website (29.09.20)</a></p>
+<p><a href="https://github.com/villivald">Website source code on GitHub</a></p>
+
+
+  <br><hr>
+  
+    <b>Tags: </b>
+    
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/css">css</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/html">html</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/javascript">javascript</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/react">react</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/site">site</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/studies">studies</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/website">website</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/www">www</a>
+      
+    
+  
+  <br><br>
+  <a href="/eleventy-stylus-blog-theme/">&larr; Back home</a>
+</div>
+
+  <footer class="footer">
+  <div class="links-container">
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/github-icon.svg"/> <a href="https://github.com/villivald">GitHub</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/twitter.svg"/> <a href="https://twitter.com/crapp_blog">Twitter</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/dev-badge.svg"/> <a href="https://dev.to/villivald">Dev</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/linkedin-icon.svg"/> <a href="https://www.linkedin.com/in/maxim-villivald-4b1b311a3/">LinkedIn</a>
+    </div>
+  </div>
+  &copy; 2021 - Create React App Blog
+</footer>
+
+
+
+  <script>
+    const ham = document.querySelector('.navbar__hamburger')
+    const menu = document.querySelector('.navbar__mobile-links')
+    const darkToggleButtons = document.querySelectorAll('.dark-toggle')
+
+    function changeDarkToggleBtnIcon () {
+      darkToggleButtons.forEach(btn => {
+        if (btn.querySelector('img').src.indexOf('/static/img/moon.svg') !== -1) {
+          btn.querySelector('img').src = "/eleventy-stylus-blog-theme/static/img/sun.svg"
+        } else {
+          btn.querySelector('img').src = "/eleventy-stylus-blog-theme/static/img/moon.svg"
+        }
+      })
+    }
+
+    if (
+      localStorage.prefsDark === 'true' || 
+      (
+        window.matchMedia && 
+        window.matchMedia('(prefers-color-scheme: dark)').matches && 
+        localStorage.prefsDark !== 'false')
+      ) {
+      document.body.classList.add('dark')
+      changeDarkToggleBtnIcon()
+    }
+
+    ham.addEventListener('click', () => {
+      menu.classList.toggle('navbar__mobile-links--open')
+
+      let prevState = JSON.parse(ham.getAttribute('aria-expanded'))
+      ham.setAttribute('aria-expanded', !prevState)
+    })
+
+    darkToggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        changeDarkToggleBtnIcon()
+
+        if (document.body.classList.contains('dark')) {
+          document.body.classList.remove('dark')
+          localStorage.prefsDark = 'false'
+        } else {
+          document.body.classList.add('dark')
+          localStorage.prefsDark = 'true'
+        }
+
+      })
+    })
+  </script>
+</body>
+</html>

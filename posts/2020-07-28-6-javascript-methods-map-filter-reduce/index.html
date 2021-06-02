@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[6] JavaScript - Map, Filter &amp; Reduce | Create React App Blog</title>
+  <meta name="description" content="Web Dev Tools, Productivity Tips &amp; Stories About My Journey to Become a Developer">
+
+  <link rel="shortcut icon" href="/eleventy-stylus-blog-theme/static/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/eleventy-stylus-blog-theme/static/css/main.css" media="all">
+
+</head>
+<body>
+  
+<nav class="navbar">
+  <div class="navbar__inner">
+    <a class="navbar__logo" href="/eleventy-stylus-blog-theme/">Create React App Blog</a>
+
+    <div class="navbar__mobile-options">
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/eleventy-stylus-blog-theme/static/img/moon.svg" alt="">
+      </div>
+      <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
+          <path d="M0 0h24v24H0z" fill="none"/>
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="navbar__links">
+      
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/">
+          Home
+        </a>
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/pages/about/">
+          About
+        </a>
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/tags/">
+          Tags
+        </a>
+
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/eleventy-stylus-blog-theme/static/img/moon.svg" alt="">
+      </div>
+
+    </div>
+  </div>
+
+  <div class="navbar__mobile-links">
+    
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/">
+        Home
+      </a>
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/pages/about/">
+        About
+      </a>
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/tags/">
+        Tags
+      </a>
+  </div>
+
+</nav>
+
+  
+<div class="container-sm">
+  <h1>[6] JavaScript - Map, Filter &amp; Reduce</h1>
+  <p>I am still focusing on learning JavaScript and especially different JavaScript methods while waiting for the next academic year to begin. The first courses are due to start in early September, so it’s not so long to wait anymore. I hope that it will boost my productivity since now I feel extremely unfocused and a bit confused in the abundance of information.</p>
+<p>Anyway, there is still certain progress in my skills. Now I will also probably write more often since I have an idea for a cycle of posts about JavaScript. The first post of this cycle was <a href="https://create-react-app.com/5-javascript-spread-operator/">published last week</a> and was related to the topic of JS spread operator. In this post, I will go over some significant JavaScript methods such as map, filter, and reduce.</p>
+<h3>Map</h3>
+<p>In this simple example of using a map(), I am creating a function <strong>fn</strong> that takes two arguments - name and id. Then I pass some names to the function and convert the string to the desired form by using the map method.</p>
+<pre><code>function fn(name, id) {
+    console.log(id + 1, &quot;: &quot;, name)
+}
+
+[&quot;John&quot;, &quot;Marie&quot;].map(fn)
+
+/*
+1: John
+2: Marie
+*/
+</code></pre>
+<p>Map() is also suitable for some other use cases. In the code below, I am using it to calculate the length of the elements.</p>
+<pre><code>var names = [&quot;John&quot;, &quot;Tom&quot;, &quot;Tim&quot;]
+
+var lengths = names.map(function (name) {
+    return name.length
+})
+
+console.log(lengths)
+
+// [ 4, 3, 3 ]
+</code></pre>
+<p>In the last piece of code, I transform an array of numbers using the map and the sqrt methods (square root).</p>
+<pre><code>var numbers = [9, 25, 49, 100]
+var x = numbers.map(Math.sqrt)
+
+console.log(x)
+
+// [ 3, 5, 7, 10 ]
+</code></pre>
+<h3>Filter</h3>
+<p>A filter() is another helpful JavaScript method. It allows us to literally filter arrays (or in this particular case - an array of objects). In the example below, I created a function that returns an array of users that are logged into our imaginary system.</p>
+<pre><code>function isLoggedIn(user) {
+    return user.session != null
+}
+console.log([
+    {userId: 42, session: &quot;123&quot;},
+    {userId: 12},
+    {userId: 58,session: &quot;3333&quot;}
+].filter(isLoggedIn))
+
+// [ { userId: 42, session: '123' }, { userId: 58, session: '3333' } ]
+</code></pre>
+<p>In the next example, I am using a filter() for sorting the elements of an array. The function returns an array of positive numbers.</p>
+<pre><code>var array = [0, 11, -7, -4, 2, 68];
+
+var positive = array.filter(function (number) {
+    return number &gt; 0;
+});
+
+console.log(positive); // 11, 2, 68
+</code></pre>
+<h3>Reduce</h3>
+<p>The reduce method is a little more complex. In a few words, it allows us to calculate a single value based on the entire array. In the first example, I created a function <strong>addToRecord</strong> that combines the information given in the arrays.</p>
+<pre><code>function addToRecord(record, [key, value]) {
+    return {
+        ...record,
+        [key.toUpperCase()]: value
+    }
+}
+
+console.log(
+    [
+        [&quot;name&quot;, &quot;John&quot;],
+        [&quot;age&quot;, 30],
+        [&quot;isLoggedIn&quot;, true]
+    ].reduce(addToRecord, {}))
+
+// { NAME: 'John', AGE: 30, ISLOGGEDIN: true }
+</code></pre>
+<p>And here we get a short implementation of factorial (5! = 1 × 2 × 3 × 4 × 5 = 120) using the reduce method.</p>
+<pre><code>let arr = [1, 2, 3, 4, 5]
+
+let result = arr.reduce((res, current) =&gt; res * current)
+
+console.log(result)
+
+// 120
+</code></pre>
+<p><a href="https://create-react-app.com/">https://create-react-app.com/</a></p>
+<p><a href="https://proj.create-react-app.com/">https://proj.create-react-app.com/</a></p>
+<p><a href="https://villivald.github.io/proj/">https://villivald.github.io/proj/</a></p>
+
+
+  <br><hr>
+  
+    <b>Tags: </b>
+    
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/code">code</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/filter">filter</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/function">function</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/javascript">javascript</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/js">js</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/map">map</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/reduce">reduce</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/study">study</a>
+      
+    
+  
+  <br><br>
+  <a href="/eleventy-stylus-blog-theme/">&larr; Back home</a>
+</div>
+
+  <footer class="footer">
+  <div class="links-container">
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/github-icon.svg"/> <a href="https://github.com/villivald">GitHub</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/twitter.svg"/> <a href="https://twitter.com/crapp_blog">Twitter</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/dev-badge.svg"/> <a href="https://dev.to/villivald">Dev</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/linkedin-icon.svg"/> <a href="https://www.linkedin.com/in/maxim-villivald-4b1b311a3/">LinkedIn</a>
+    </div>
+  </div>
+  &copy; 2021 - Create React App Blog
+</footer>
+
+
+
+  <script>
+    const ham = document.querySelector('.navbar__hamburger')
+    const menu = document.querySelector('.navbar__mobile-links')
+    const darkToggleButtons = document.querySelectorAll('.dark-toggle')
+
+    function changeDarkToggleBtnIcon () {
+      darkToggleButtons.forEach(btn => {
+        if (btn.querySelector('img').src.indexOf('/static/img/moon.svg') !== -1) {
+          btn.querySelector('img').src = "/eleventy-stylus-blog-theme/static/img/sun.svg"
+        } else {
+          btn.querySelector('img').src = "/eleventy-stylus-blog-theme/static/img/moon.svg"
+        }
+      })
+    }
+
+    if (
+      localStorage.prefsDark === 'true' || 
+      (
+        window.matchMedia && 
+        window.matchMedia('(prefers-color-scheme: dark)').matches && 
+        localStorage.prefsDark !== 'false')
+      ) {
+      document.body.classList.add('dark')
+      changeDarkToggleBtnIcon()
+    }
+
+    ham.addEventListener('click', () => {
+      menu.classList.toggle('navbar__mobile-links--open')
+
+      let prevState = JSON.parse(ham.getAttribute('aria-expanded'))
+      ham.setAttribute('aria-expanded', !prevState)
+    })
+
+    darkToggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        changeDarkToggleBtnIcon()
+
+        if (document.body.classList.contains('dark')) {
+          document.body.classList.remove('dark')
+          localStorage.prefsDark = 'false'
+        } else {
+          document.body.classList.add('dark')
+          localStorage.prefsDark = 'true'
+        }
+
+      })
+    })
+  </script>
+</body>
+</html>

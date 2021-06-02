@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[4] React - Todo app | Create React App Blog</title>
+  <meta name="description" content="Web Dev Tools, Productivity Tips &amp; Stories About My Journey to Become a Developer">
+
+  <link rel="shortcut icon" href="/eleventy-stylus-blog-theme/static/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/eleventy-stylus-blog-theme/static/css/main.css" media="all">
+
+</head>
+<body>
+  
+<nav class="navbar">
+  <div class="navbar__inner">
+    <a class="navbar__logo" href="/eleventy-stylus-blog-theme/">Create React App Blog</a>
+
+    <div class="navbar__mobile-options">
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/eleventy-stylus-blog-theme/static/img/moon.svg" alt="">
+      </div>
+      <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
+          <path d="M0 0h24v24H0z" fill="none"/>
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="navbar__links">
+      
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/">
+          Home
+        </a>
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/pages/about/">
+          About
+        </a>
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/tags/">
+          Tags
+        </a>
+
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/eleventy-stylus-blog-theme/static/img/moon.svg" alt="">
+      </div>
+
+    </div>
+  </div>
+
+  <div class="navbar__mobile-links">
+    
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/">
+        Home
+      </a>
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/pages/about/">
+        About
+      </a>
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/tags/">
+        Tags
+      </a>
+  </div>
+
+</nav>
+
+  
+<div class="container-sm">
+  <h1>[4] React - Todo app</h1>
+  <p>Finally, I have some time to write about my experience with React. When I am thinking about all the things I have learned over the last year, React seems to be the most tricky part of web development so far. I watched a bunch of videos and read a lot of everything. And even so, I don’t feel particularly confident in dealing with it.</p>
+<p>I guess that the reason is not the complexity of React as a concept, but rather my insufficient understanding of the basics of JavaScript and things related to it. Learning to code turned out to be, at the same time, surprisingly inspiring but also difficult and multilayered. It also differs a lot from my entire previous student experience.</p>
+<p>Anyway, in the last few days, I have been working on a React <a href="https://proj.create-react-app.com/todo/">Todo application</a>. As you can see, the functionality of the app is quite limited at the moment. Right now it is only possible to create new tasks, mark tasks as done, or delete them. Nevertheless, I already have on my mind a few options for future development. First of all, I would like to add a possibility to edit tasks and restore them from the trash. Then, there could be some sort of calendar integration, or, at least, the ability to schedule tasks by days. Express could also be added in the future since now there is only local storage for storing information.</p>
+<p>The code of an application is available at my <a href="https://github.com/villivald/proj/tree/master/todo/code">GitHub</a>.</p>
+<p>The basic configuration of my project was as follows:</p>
+<pre><code>npx create-react-app APP_NAME
+
+npm i -D prettier
+--&gt; .prettierrc --&gt; {}
+
+npm install -D eslint eslint-config-prettier
+--&gt; .eslintrc.json --&gt;
+{
+  &quot;extends&quot;: [
+    &quot;eslint:recommended&quot;,
+    &quot;plugin:import/errors&quot;,
+    &quot;plugin:react/recommended&quot;,
+    &quot;plugin:jsx-a11y/recommended&quot;,
+    &quot;prettier&quot;,
+    &quot;prettier/react&quot;
+  ],
+  &quot;rules&quot;: {
+    &quot;react/prop-types&quot;: 0,
+    &quot;no-console&quot;: 1,
+    &quot;react-hooks/rules-of-hooks&quot;: 2,
+    &quot;react-hooks/exhaustive-deps&quot;: 1
+  },
+  &quot;parser&quot;: &quot;babel-eslint&quot;,
+  &quot;plugins&quot;: [&quot;react&quot;, &quot;import&quot;, &quot;jsx-a11y&quot;, &quot;react-hooks&quot;],
+  &quot;parserOptions&quot;: {
+    &quot;ecmaVersion&quot;: 2018,
+    &quot;sourceType&quot;: &quot;module&quot;,
+    &quot;ecmaFeatures&quot;: {
+      &quot;jsx&quot;: true
+    }
+  },
+  &quot;env&quot;: {
+    &quot;es6&quot;: true,
+    &quot;browser&quot;: true,
+    &quot;node&quot;: true
+  },
+  &quot;settings&quot;: {
+    &quot;react&quot;: {
+      &quot;version&quot;: &quot;detect&quot;
+    }
+  }
+}
+
+--&gt; .gitignore --&gt;
+node_modules/
+.DS_Store
+.cache/
+dist/
+coverage/
+.env
+
+npm install -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
+
+npm i -D eslint-plugin-react-hooks
+
+npm install -D babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal-class-properties @babel/preset-react
+</code></pre>
+<p>I also made some minor changes to my website. There are screenshot and links below:</p>
+<p><img src="https://reverent-carson-67c52e.netlify.app/static/img/images/4/Screenshot-2020-07-14-at-16.19.26.png" alt=""></p>
+<p><a href="https://create-react-app.com/www/">https://create-react-app.com/www/</a></p>
+<p><a href="https://proj.create-react-app.com/">https://proj.create-react-app.com/</a></p>
+<p><a href="https://villivald.github.io/proj/">https://villivald.github.io/proj/</a></p>
+
+
+  <br><hr>
+  
+    <b>Tags: </b>
+    
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/app">app</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/application">application</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/code">code</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/coding">coding</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/github">github</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/javascript">javascript</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/npm">npm</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/ohjelmointi">ohjelmointi</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/programming">programming</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/react">react</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/todo">todo</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/website">website</a>
+      
+    
+  
+  <br><br>
+  <a href="/eleventy-stylus-blog-theme/">&larr; Back home</a>
+</div>
+
+  <footer class="footer">
+  <div class="links-container">
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/github-icon.svg"/> <a href="https://github.com/villivald">GitHub</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/twitter.svg"/> <a href="https://twitter.com/crapp_blog">Twitter</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/dev-badge.svg"/> <a href="https://dev.to/villivald">Dev</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/linkedin-icon.svg"/> <a href="https://www.linkedin.com/in/maxim-villivald-4b1b311a3/">LinkedIn</a>
+    </div>
+  </div>
+  &copy; 2021 - Create React App Blog
+</footer>
+
+
+
+  <script>
+    const ham = document.querySelector('.navbar__hamburger')
+    const menu = document.querySelector('.navbar__mobile-links')
+    const darkToggleButtons = document.querySelectorAll('.dark-toggle')
+
+    function changeDarkToggleBtnIcon () {
+      darkToggleButtons.forEach(btn => {
+        if (btn.querySelector('img').src.indexOf('/static/img/moon.svg') !== -1) {
+          btn.querySelector('img').src = "/eleventy-stylus-blog-theme/static/img/sun.svg"
+        } else {
+          btn.querySelector('img').src = "/eleventy-stylus-blog-theme/static/img/moon.svg"
+        }
+      })
+    }
+
+    if (
+      localStorage.prefsDark === 'true' || 
+      (
+        window.matchMedia && 
+        window.matchMedia('(prefers-color-scheme: dark)').matches && 
+        localStorage.prefsDark !== 'false')
+      ) {
+      document.body.classList.add('dark')
+      changeDarkToggleBtnIcon()
+    }
+
+    ham.addEventListener('click', () => {
+      menu.classList.toggle('navbar__mobile-links--open')
+
+      let prevState = JSON.parse(ham.getAttribute('aria-expanded'))
+      ham.setAttribute('aria-expanded', !prevState)
+    })
+
+    darkToggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        changeDarkToggleBtnIcon()
+
+        if (document.body.classList.contains('dark')) {
+          document.body.classList.remove('dark')
+          localStorage.prefsDark = 'false'
+        } else {
+          document.body.classList.add('dark')
+          localStorage.prefsDark = 'true'
+        }
+
+      })
+    })
+  </script>
+</body>
+</html>

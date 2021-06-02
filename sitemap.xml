@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-05-23-intro/</loc>
+    <lastmod>2020-05-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-05-29-creare-react-app-blog/</loc>
+    <lastmod>2020-05-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-06-05-my-personal-gi-top-8/</loc>
+    <lastmod>2020-06-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-06-15-javascript-data-types/</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-07-02-js-minesweeper-app/</loc>
+    <lastmod>2020-07-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-07-04-my-studies-at-the-university/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-07-15-react-todo-app/</loc>
+    <lastmod>2020-07-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-07-24-5-javascript-spread-operator/</loc>
+    <lastmod>2020-07-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-07-28-6-javascript-methods-map-filter-reduce/</loc>
+    <lastmod>2020-07-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-08-22-7-react-native/</loc>
+    <lastmod>2020-08-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-09-13-8-university-zsh/</loc>
+    <lastmod>2020-09-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-09-29-new-website/</loc>
+    <lastmod>2020-09-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-10-13-10-hacktoberfest/</loc>
+    <lastmod>2020-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-10-29-11-php/</loc>
+    <lastmod>2020-10-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-11-16-top-15-resources-to-learn-coding/</loc>
+    <lastmod>2020-11-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-11-24-top-15-most-useful-tools-in-2020/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-12-05-15-best-developer-resources-in-2020/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-12-12-top-15-web-development-blogs/</loc>
+    <lastmod>2020-12-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2020-12-25-top-15-best-developer-resources-part2/</loc>
+    <lastmod>2020-12-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2021-02-07-becoming_a_web_developer/</loc>
+    <lastmod>2021-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2021-03-08-18-top-10-web-dev-tools-03-2021/</loc>
+    <lastmod>2021-03-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2021-04-06-top-10-web-dev-tools-04-2021/</loc>
+    <lastmod>2021-04-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2021-04-28-15-most-valuable-github-repos-in-2021/</loc>
+    <lastmod>2021-04-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/posts/2021-05-10-top-10-web-dev-tools-05-2021/</loc>
+    <lastmod>2021-05-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/pages/about/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/coding/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/finland/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/frontend/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/helsinki/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/lab/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/lahti/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/newbie/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/university/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/webdev/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/git/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/github/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/game/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/javascript/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/minesweeper/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/programming/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/project/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/data/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/lamk/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/student/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/studies/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/app/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/application/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/code/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/npm/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/ohjelmointi/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/react/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/todo/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/website/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/array/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/js/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/object/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/spread/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/syntax/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/course/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/frontendmasters/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/react-native/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/svelte/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/udemy/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/filter/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/function/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/map/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/reduce/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/study/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/css/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/html/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/site/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/www/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/bash/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/shell/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/terminal/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/universityofappliessciences/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/zsh/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/hacktoberfest/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/issue/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/pullrequest/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/top/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/php/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/web/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/web-development/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/tools/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/blog/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/top15/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/top10/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/</loc>
+    <lastmod>2021-06-02</lastmod>
+  </url>
+</urlset>

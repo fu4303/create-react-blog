@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[5] JavaScript - Spread operator | Create React App Blog</title>
+  <meta name="description" content="Web Dev Tools, Productivity Tips &amp; Stories About My Journey to Become a Developer">
+
+  <link rel="shortcut icon" href="/eleventy-stylus-blog-theme/static/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/eleventy-stylus-blog-theme/static/css/main.css" media="all">
+
+</head>
+<body>
+  
+<nav class="navbar">
+  <div class="navbar__inner">
+    <a class="navbar__logo" href="/eleventy-stylus-blog-theme/">Create React App Blog</a>
+
+    <div class="navbar__mobile-options">
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/eleventy-stylus-blog-theme/static/img/moon.svg" alt="">
+      </div>
+      <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
+          <path d="M0 0h24v24H0z" fill="none"/>
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="navbar__links">
+      
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/">
+          Home
+        </a>
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/pages/about/">
+          About
+        </a>
+        <a class="navbar__link " href="/eleventy-stylus-blog-theme/tags/">
+          Tags
+        </a>
+
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/eleventy-stylus-blog-theme/static/img/moon.svg" alt="">
+      </div>
+
+    </div>
+  </div>
+
+  <div class="navbar__mobile-links">
+    
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/">
+        Home
+      </a>
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/pages/about/">
+        About
+      </a>
+      <a class="navbar__mobile-link " href="/eleventy-stylus-blog-theme/tags/">
+        Tags
+      </a>
+  </div>
+
+</nav>
+
+  
+<div class="container-sm">
+  <h1>[5] JavaScript - Spread operator</h1>
+  <p>In the last couple of days, I was trying to intensively learn JavaScript. So, in the few next posts will be some thoughts about useful functions, methods, and syntax features. Today I will start with the javascript spread operator.</p>
+<h4>Spread syntax</h4>
+<p>The javascript spread operator could be a pretty useful tool that saves space and improves the syntax. In the first example below, I am using it for passing <strong>args</strong> array to the <strong>newArgs</strong> on line 5. Next, on lines 7 and 8, I am passing those arrays to <strong>fn</strong> function.</p>
+<pre><code>fn = (x, y, z, a = 4, b = 5, c = 6) =&gt; {
+  console.log(x, y, z, a, b, c)
+ }
+var args = [1, 2, 3]
+var newArgs = [...args, &quot;four&quot;, &quot;five&quot;, &quot;six&quot;] // [1, 2, 3, four, five, six]
+
+fn(...args) // 1 2 3 4 5 6
+fn(...newArgs) // 1 2 3 four five six
+</code></pre>
+<p>The next example is slightly different. Here I am creating a function, which uses <strong>…args</strong> as a parameter. Inside the function, we have a for-loop that iterates through the list of arguments. In principle, there can be as many arguments as you need. Finally, when the function is being called, it takes all arguments that have been given, 1, 2, or 100, etc.</p>
+<pre><code>sumAll = (...args) =&gt; {
+    let sum = 0
+    for (let arg of args) {
+        sum += arg
+    }
+    console.log(sum)
+}
+
+sumAll(1) // 1
+sumAll(1, 2) // 3
+sumAll(1, 2, 3) // 6
+</code></pre>
+<p>We could also use the spread operator for something like this:</p>
+<p>Iteration through the string.</p>
+<pre><code>const str = &quot;Hello&quot;
+var letters = [...str]
+console.log(letters) // [ 'H', 'e', 'l', 'l', 'o' ]
+</code></pre>
+<p>Dividing an array into a number (<strong>z</strong>) and an object (<strong>w</strong>), which is, in fact, another array. (More about JS Data Types <a href="https://create-react-app.com/javascript-data-types/">here</a>).</p>
+<pre><code>var [w, ...z] = [1, 2, 3]
+
+console.log(w, z) // 1 [2, 3]
+
+console.log(typeof(w)) // number
+console.log(Array.isArray(w)) // false
+
+console.log(z[1]) // 3
+console.log(typeof(z)) // object
+console.log(Array.isArray(w)) // true
+</code></pre>
+<p>Or even iterating through the object:</p>
+<pre><code>var object = {
+    a: 1,
+    b: 2,
+    c: 3,
+    *[Symbol.iterator]() {
+        for (let key of Object.keys(this)) {
+            yield this[key]
+        }
+    }
+}
+
+console.log(...object) // 1 2 3
+console.log(typeof(object.a)) // number
+</code></pre>
+<p>The latest example can be also done in a following way. But in this case, it returns an array:</p>
+<pre><code>var object = {
+    a: 1,
+    b: 2,
+    c: 3
+}
+
+var x = Object.values(object)
+console.log(x); // [1, 2, 3]
+console.log(typeof(x)) // object
+</code></pre>
+<p><a href="https://create-react-app.com/">https://create-react-app.com/</a></p>
+<p><a href="https://proj.create-react-app.com/">https://proj.create-react-app.com/</a></p>
+<p><a href="https://villivald.github.io/proj/">https://villivald.github.io/proj/</a></p>
+
+
+  <br><hr>
+  
+    <b>Tags: </b>
+    
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/array">array</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/javascript">javascript</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/js">js</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/object">object</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/spread">spread</a>, 
+      
+    
+      
+        <a href="/eleventy-stylus-blog-theme/tags/syntax">syntax</a>
+      
+    
+  
+  <br><br>
+  <a href="/eleventy-stylus-blog-theme/">&larr; Back home</a>
+</div>
+
+  <footer class="footer">
+  <div class="links-container">
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/github-icon.svg"/> <a href="https://github.com/villivald">GitHub</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/twitter.svg"/> <a href="https://twitter.com/crapp_blog">Twitter</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/dev-badge.svg"/> <a href="https://dev.to/villivald">Dev</a>
+    </div>
+    <div class="link">
+      <img class="gitlogo" src="../../static/img/icons/linkedin-icon.svg"/> <a href="https://www.linkedin.com/in/maxim-villivald-4b1b311a3/">LinkedIn</a>
+    </div>
+  </div>
+  &copy; 2021 - Create React App Blog
+</footer>
+
+
+
+  <script>
+    const ham = document.querySelector('.navbar__hamburger')
+    const menu = document.querySelector('.navbar__mobile-links')
+    const darkToggleButtons = document.querySelectorAll('.dark-toggle')
+
+    function changeDarkToggleBtnIcon () {
+      darkToggleButtons.forEach(btn => {
+        if (btn.querySelector('img').src.indexOf('/static/img/moon.svg') !== -1) {
+          btn.querySelector('img').src = "/eleventy-stylus-blog-theme/static/img/sun.svg"
+        } else {
+          btn.querySelector('img').src = "/eleventy-stylus-blog-theme/static/img/moon.svg"
+        }
+      })
+    }
+
+    if (
+      localStorage.prefsDark === 'true' || 
+      (
+        window.matchMedia && 
+        window.matchMedia('(prefers-color-scheme: dark)').matches && 
+        localStorage.prefsDark !== 'false')
+      ) {
+      document.body.classList.add('dark')
+      changeDarkToggleBtnIcon()
+    }
+
+    ham.addEventListener('click', () => {
+      menu.classList.toggle('navbar__mobile-links--open')
+
+      let prevState = JSON.parse(ham.getAttribute('aria-expanded'))
+      ham.setAttribute('aria-expanded', !prevState)
+    })
+
+    darkToggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        changeDarkToggleBtnIcon()
+
+        if (document.body.classList.contains('dark')) {
+          document.body.classList.remove('dark')
+          localStorage.prefsDark = 'false'
+        } else {
+          document.body.classList.add('dark')
+          localStorage.prefsDark = 'true'
+        }
+
+      })
+    })
+  </script>
+</body>
+</html>
