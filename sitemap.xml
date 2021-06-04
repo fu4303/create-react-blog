@@ -132,6 +132,11 @@
   </url>
   
   <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/pages/site/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
+  
+  <url>
     <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/coding/</loc>
     <lastmod>2021-06-04</lastmod>
   </url>
