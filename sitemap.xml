@@ -202,21 +202,6 @@
   </url>
   
   <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/lamk/</loc>
-    <lastmod>2021-06-06</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/student/</loc>
-    <lastmod>2021-06-06</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/studies/</loc>
-    <lastmod>2021-06-06</lastmod>
-  </url>
-  
-  <url>
     <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/game/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
@@ -233,6 +218,21 @@
   
   <url>
     <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/project/</loc>
+    <lastmod>2021-06-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/lamk/</loc>
+    <lastmod>2021-06-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/student/</loc>
+    <lastmod>2021-06-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/studies/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
@@ -427,12 +427,12 @@
   </url>
   
   <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/top/</loc>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/tools/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/tools/</loc>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/top/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
