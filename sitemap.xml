@@ -192,17 +192,12 @@
   </url>
   
   <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/data/</loc>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/game/</loc>
     <lastmod>2021-06-07</lastmod>
   </url>
   
   <url>
     <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/javascript/</loc>
-    <lastmod>2021-06-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/game/</loc>
     <lastmod>2021-06-07</lastmod>
   </url>
   
@@ -233,6 +228,11 @@
   
   <url>
     <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/studies/</loc>
+    <lastmod>2021-06-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/data/</loc>
     <lastmod>2021-06-07</lastmod>
   </url>
   
