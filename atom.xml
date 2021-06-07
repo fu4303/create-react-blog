@@ -5,7 +5,7 @@
 	
 	<link href="/eleventy-stylus-blog-theme/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2021-06-07T10:16:14Z</updated>
+	<updated>2021-06-07T10:59:53Z</updated>
 	<id>https://create-react-app.com</id>
 	<author>
 		<name>MV</name>
@@ -17,7 +17,7 @@
 		<link href="/eleventy-stylus-blog-theme/posts/2021-05-10-top-10-web-dev-tools-05-2021/"/>
 		<updated>2021-05-10T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2021-05-10-top-10-web-dev-tools-05-2021/</id>
-		<content type="html">&lt;p&gt;It seems that it is the perfect time to continue my recent &lt;a href=&quot;https://create-react-app.com/category/top-10-web-dev-tools/&quot;&gt;blog post series&lt;/a&gt; - Top 10 Best Web Dev Tools. Every month I will try to pick the most intriguing and handy tools that I believe are must-haves for every web developer. This time there are:&lt;/p&gt;
+		<content type="html">&lt;p&gt;It seems that it is the perfect time to continue my recent &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;blog post series&lt;/a&gt; - Top 10 Best Web Dev Tools. Every month I will try to pick the most intriguing and handy tools that I believe are must-haves for every web developer. This time there are:&lt;/p&gt;
 &lt;h2&gt;1). Vercel&lt;/h2&gt;
 &lt;p&gt;A very impressive and easy-to-use deployment and collaboration platform for front-end developers from creators of &lt;a href=&quot;https://nextjs.org/&quot;&gt;NextJS&lt;/a&gt;. Vercel enables developers to host websites and web services that deploy instantly and scale automatically – all without any configuration. So far, I have been using it for a couple of weeks, and it really feels like a &lt;a href=&quot;https://heroku.com/&quot;&gt;Heroku&lt;/a&gt; or &lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; on steroids.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/21/Screenshot-2021-05-10-at-11.11.06.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools&quot; /&gt;&lt;/p&gt;
@@ -27,7 +27,7 @@
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/21/Screenshot-2021-05-10-at-11.23.09.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://colorleap.app/home&quot;&gt;https://colorleap.app&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;3). HTML DOM&lt;/h2&gt;
-&lt;p&gt;A handy DOM-related knowledge database from creators of &lt;a href=&quot;https://thisthat.dev/&quot;&gt;this vs that&lt;/a&gt; which I mentioned &lt;a href=&quot;https://create-react-app.com/top-15-best-developer-resources-part2/&quot;&gt;last year&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A handy DOM-related knowledge database from creators of &lt;a href=&quot;https://thisthat.dev/&quot;&gt;this vs that&lt;/a&gt; which I mentioned &lt;a href=&quot;https://www.create-react-app.com/posts/2020-12-25-top-15-best-developer-resources-part2/&quot;&gt;last year&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/21/Screenshot-2021-05-10-at-11.30.20.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://htmldom.dev/&quot;&gt;https://htmldom.dev/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;4). Keyframes&lt;/h2&gt;
@@ -141,9 +141,9 @@
 		<link href="/eleventy-stylus-blog-theme/posts/2021-04-06-top-10-web-dev-tools-04-2021/"/>
 		<updated>2021-04-06T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2021-04-06-top-10-web-dev-tools-04-2021/</id>
-		<content type="html">&lt;p&gt;It is time to continue my new blog post series - Top 10 Best Web Dev Tools, which I &lt;a href=&quot;https://create-react-app.com/18-top-10-web-dev-tools-03-2021/&quot;&gt;started&lt;/a&gt; almost one month ago. Every month I will try to pick the most intriguing and handy tools that I believe are must-haves for every web developer.&lt;/p&gt;
+		<content type="html">&lt;p&gt;It is time to continue my new blog post series - Top 10 Best Web Dev Tools, which I &lt;a href=&quot;https://www.create-react-app.com/posts/2021-03-08-18-top-10-web-dev-tools-03-2021/&quot;&gt;started&lt;/a&gt; almost one month ago. Every month I will try to pick the most intriguing and handy tools that I believe are must-haves for every web developer.&lt;/p&gt;
 &lt;h2&gt;1). Daily Dev&lt;/h2&gt;
-&lt;p&gt;The best coding news aggregator I have seen so far (yes, including &lt;a href=&quot;https://create-react-app.com/15-best-developer-resources-in-2020/&quot;&gt;Hacker News&lt;/a&gt;). Available both as a &lt;a href=&quot;https://app.daily.dev/&quot;&gt;web app&lt;/a&gt; and &lt;a href=&quot;https://r.daily.dev/chrome&quot;&gt;extension&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The best coding news aggregator I have seen so far (yes, including &lt;a href=&quot;https://www.create-react-app.com/posts/2020-12-05-15-best-developer-resources-in-2020/&quot;&gt;Hacker News&lt;/a&gt;). Available both as a &lt;a href=&quot;https://app.daily.dev/&quot;&gt;web app&lt;/a&gt; and &lt;a href=&quot;https://r.daily.dev/chrome&quot;&gt;extension&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.30.36.png&quot; alt=&quot;daily dev&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://daily.dev/&quot;&gt;https://daily.dev/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;2). HTTP Cats&lt;/h2&gt;
@@ -155,7 +155,7 @@
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.28.20.png&quot; alt=&quot;ray.so&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://ray.so/&quot;&gt;https://ray.so/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;4). JSitor&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://create-react-app.com/18-top-10-web-dev-tools-03-2021/&quot;&gt;Last month&lt;/a&gt; I mentioned Stackblitz, which is a great online code editor for web apps. This time I would like to present a tool with a bit narrower application, which is nevertheless very useful when working with JavaScript.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-03-08-18-top-10-web-dev-tools-03-2021/&quot;&gt;Last month&lt;/a&gt; I mentioned Stackblitz, which is a great online code editor for web apps. This time I would like to present a tool with a bit narrower application, which is nevertheless very useful when working with JavaScript.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.29.28.png&quot; alt=&quot;jsitor&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://jsitor.com/&quot;&gt;https://jsitor.com/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;5). Can I use...&lt;/h2&gt;
@@ -175,7 +175,7 @@
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.26.57.png&quot; alt=&quot;cool backgrounds&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://coolbackgrounds.io/&quot;&gt;https://coolbackgrounds.io/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;9). Grid Cheatsheet&lt;/h2&gt;
-&lt;p&gt;It is another useful cheat sheet, presented in visual and easy to interpret form. From the authors of &lt;a href=&quot;https://create-react-app.com/18-top-10-web-dev-tools-03-2021/&quot;&gt;Flex cheatsheet&lt;/a&gt; (pick number 10).&lt;/p&gt;
+&lt;p&gt;It is another useful cheat sheet, presented in visual and easy to interpret form. From the authors of &lt;a href=&quot;https://www.create-react-app.com/posts/2021-03-08-18-top-10-web-dev-tools-03-2021/&quot;&gt;Flex cheatsheet&lt;/a&gt; (pick number 10).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.31.41.png&quot; alt=&quot;grid cheatsheet&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://yoksel.github.io/grid-cheatsheet/&quot;&gt;https://yoksel.github.io/grid-cheatsheet/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;10). uiGradients&lt;/h2&gt;
@@ -194,7 +194,7 @@
 		<link href="/eleventy-stylus-blog-theme/posts/2021-03-08-18-top-10-web-dev-tools-03-2021/"/>
 		<updated>2021-03-08T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2021-03-08-18-top-10-web-dev-tools-03-2021/</id>
-		<content type="html">&lt;p&gt;Today I would like to start my new blog post series - Top 10 Must-Have Web Dev Tools. It will be partly a continuation of my last year&#39;s series (&lt;a href=&quot;https://create-react-app.com/tag/top/&quot;&gt;WP&lt;/a&gt; / &lt;a href=&quot;https://dev.to/villivald/series/9717&quot;&gt;DEV&lt;/a&gt;) but not quite. The reason for the appearance of this idea is that recently I have accumulated a huge number of links that I would like to share with everyone. I plan to do similar reviews once a month and hope these lists will be useful to someone. So, let&#39;s start with March 2021 edition.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Today I would like to start my new blog post series - Top 10 Must-Have Web Dev Tools. It will be partly a continuation of my last year&#39;s series (&lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;WP&lt;/a&gt; / &lt;a href=&quot;https://dev.to/villivald/series/9717&quot;&gt;DEV&lt;/a&gt;) but not quite. The reason for the appearance of this idea is that recently I have accumulated a huge number of links that I would like to share with everyone. I plan to do similar reviews once a month and hope these lists will be useful to someone. So, let&#39;s start with March 2021 edition.&lt;/p&gt;
 &lt;h2&gt;1). Squoosh&lt;/h2&gt;
 &lt;p&gt;Squoosh is the most intuitive and good-looking image compression web app I have ever seen. It works very fast and supports many formats (AVIF, WebP, JPEG XL, etc.).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/18/Screenshot-2021-03-07-at-21.44.16.png&quot; alt=&quot;squoosh&quot; /&gt;
@@ -256,7 +256,7 @@
 &lt;li&gt;Keeping a 1-year streak by going to the gym four times a week + cycling + running sometimes. I can assure you it is possible, but not very easy when you combine it with work and studies.&lt;br /&gt;
 &lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/17/v5g0nfm812mjk9hxwqpm.png&quot; alt=&quot;Alt Text&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;Looking for a new job (still with no result) and study (112/240 ECTS). Taking part in many job interviews and university courses.&lt;/li&gt;
-&lt;li&gt;I also improved my &lt;a href=&quot;https://proj.create-react-app.com/&quot;&gt;webpage&lt;/a&gt; a lot, and added new pages, such as &lt;a href=&quot;https://proj.create-react-app.com/books&quot;&gt;Books&lt;/a&gt; and &lt;a href=&quot;https://proj.create-react-app.com/courses&quot;&gt;Courses&lt;/a&gt;.&lt;br /&gt;
+&lt;li&gt;I also improved my &lt;a href=&quot;https://proj.villivald.com/&quot;&gt;webpage&lt;/a&gt; a lot, and added new pages, such as &lt;a href=&quot;https://proj.villivald.com/books&quot;&gt;Books&lt;/a&gt; and &lt;a href=&quot;https://proj.villivald.com/courses&quot;&gt;Courses&lt;/a&gt;.&lt;br /&gt;
 &lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/17/e6xtt0gm5iya3yj4u8dj.png&quot; alt=&quot;Alt Text&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;Lighthouse score went from the ’50s to almost 100 in all categories. I made a PWA version as well.&lt;br /&gt;
 &lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/17/uoeqer7jxvhf2mhx1zhf.png&quot; alt=&quot;Alt Text&quot; /&gt;&lt;/li&gt;
@@ -267,14 +267,14 @@
 &lt;/ol&gt;
 &lt;h2&gt;What I am doing right now:&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Besides my major university studies, I also started to &lt;a href=&quot;https://proj.create-react-app.com/courses&quot;&gt;learn&lt;/a&gt; Typescript at &lt;a href=&quot;https://www.udemy.com/course/understanding-typescript/&quot;&gt;Udemy&lt;/a&gt;.&lt;br /&gt;
+&lt;li&gt;Besides my major university studies, I also started to &lt;a href=&quot;https://proj.villivald.com/courses&quot;&gt;learn&lt;/a&gt; Typescript at &lt;a href=&quot;https://www.udemy.com/course/understanding-typescript/&quot;&gt;Udemy&lt;/a&gt;.&lt;br /&gt;
 &lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/17/uxy4cl1cf2jna47tgh99.png&quot; alt=&quot;Alt Text&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;I also took one &lt;a href=&quot;https://www.lyyti.fi/p/CampusOnline21_Websovelluskehitys_ja_NoSQLkannat_7210&quot;&gt;React-related course&lt;/a&gt; from the &lt;a href=&quot;https://www.savonia.fi/en/homepage/&quot;&gt;Savonia University of Applied Sciences&lt;/a&gt; via &lt;a href=&quot;https://campusonline.fi/&quot;&gt;CampusOnline&lt;/a&gt;, but not sure if I have enough time to finish it.&lt;/li&gt;
 &lt;li&gt;In addition to that, there are a lot of different courses at my university right now: &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php?lang=en&amp;amp;term=TE00BV49-3001#result-19481&quot;&gt;Audiovisual technologies&lt;/a&gt;, &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php?lang=en&amp;amp;term=TE00BV49-3001#result-19479&quot;&gt;3D Modelling&lt;/a&gt;, &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php?lang=en&amp;amp;term=TE00BV49-3001#result-19480&quot;&gt;Game Design&lt;/a&gt;, &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php?lang=en&amp;amp;term=TE00BV49-3001#result-19472&quot;&gt;Software engineering and architecture&lt;/a&gt;, &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php?lang=en&amp;amp;term=TE00BV49-3001#result-19473&quot;&gt;Data structures and algorithms&lt;/a&gt;, &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php?lang=en&amp;amp;term=TE00BV49-3001#result-19475&quot;&gt;Software maintenance and testing&lt;/a&gt;, and &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php?lang=en&amp;amp;term=TE00BV49-3001#result-19474&quot;&gt;Java Course&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;My plans for the next couple of weeks/months:&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;The next blog post, which will be in a form of Mega JavaScript CheatSheet. It would be something like &lt;a href=&quot;https://old.create-react-app.com/Projects/Cheatsheet.md&quot;&gt;this Markdown cheat sheet&lt;/a&gt;, which I did a couple of weeks ago just for myself.&lt;br /&gt;
+&lt;li&gt;The next blog post, which will be in a form of Mega JavaScript CheatSheet. It would be something like &lt;a href=&quot;https://old.villivald.com/Projects/Cheatsheet.md&quot;&gt;this Markdown cheat sheet&lt;/a&gt;, which I did a couple of weeks ago just for myself.&lt;br /&gt;
 &lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/17/yg5syxm7ev4gb0afroxc.png&quot; alt=&quot;Alt Text&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;New &lt;a href=&quot;https://dev.to/villivald/series/9717&quot;&gt;Top 15&lt;/a&gt;. I have found so many new tools and resources, that I just need to share them.&lt;br /&gt;
 &lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/17/ka6ke6e5rltgn00o92yq.png&quot; alt=&quot;Alt Text&quot; /&gt;&lt;/li&gt;
@@ -292,7 +292,7 @@
 		<link href="/eleventy-stylus-blog-theme/posts/2020-12-25-top-15-best-developer-resources-part2/"/>
 		<updated>2020-12-25T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2020-12-25-top-15-best-developer-resources-part2/</id>
-		<content type="html">&lt;p&gt;Today I will keep up my &lt;a href=&quot;https://create-react-app.com/tag/top/&quot;&gt;Top 15 series&lt;/a&gt; for the last time this year. This post will be the second part of &lt;a href=&quot;https://create-react-app.com/15-best-developer-resources-in-2020/&quot;&gt;one of my previous posts&lt;/a&gt;, which was also related to Best Developer Resources. I wasn&#39;t originally planning any &amp;quot;sequels&amp;quot;. Anyway, the reason for writing the second part is simple enough - there are just so many great resources that I want to share. This time, I will go with a bit less obvious ones, and, despite the lack of big names, I believe that there are enough noteworthy hidden gems here.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Today I will keep up my &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;Top 15 series&lt;/a&gt; for the last time this year. This post will be the second part of &lt;a href=&quot;https://www.create-react-app.com/posts/2020-12-05-15-best-developer-resources-in-2020/&quot;&gt;one of my previous posts&lt;/a&gt;, which was also related to Best Developer Resources. I wasn&#39;t originally planning any &amp;quot;sequels&amp;quot;. Anyway, the reason for writing the second part is simple enough - there are just so many great resources that I want to share. This time, I will go with a bit less obvious ones, and, despite the lack of big names, I believe that there are enough noteworthy hidden gems here.&lt;/p&gt;
 &lt;h2&gt;1). this vs that&lt;/h2&gt;
 &lt;p&gt;It is a website with a simply genius approach. Explains the difference between things like :active vs :focus (CSS), class vs id (HTML), for ... in vs for ... of (JS), and so on.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-10.59.34.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -366,7 +366,7 @@
 		<link href="/eleventy-stylus-blog-theme/posts/2020-12-12-top-15-web-development-blogs/"/>
 		<updated>2020-12-12T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2020-12-12-top-15-web-development-blogs/</id>
-		<content type="html">&lt;p&gt;Today I will continue my &lt;a href=&quot;https://create-react-app.com/tag/top/&quot;&gt;Top 15 series&lt;/a&gt; with another post. This time I would like to share with you my personal top 15 of the most inspiring developer blogs. Some members of the list are represented only as Twitter accounts, and some of them have personal sites and blogs. Anyway, I believe that every person on this list deserves your attention.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Today I will continue my &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;Top 15 series&lt;/a&gt; with another post. This time I would like to share with you my personal top 15 of the most inspiring developer blogs. Some members of the list are represented only as Twitter accounts, and some of them have personal sites and blogs. Anyway, I believe that every person on this list deserves your attention.&lt;/p&gt;
 &lt;h2&gt;1). Dan Abramov&lt;/h2&gt;
 &lt;p&gt;A software engineer at Facebook, working on the React team, co-author of &lt;a href=&quot;https://en.wikipedia.org/wiki/Redux_(JavaScript_library)&quot;&gt;Redux&lt;/a&gt;, and Create React App.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.33.22.png&quot; alt=&quot;TTT&quot; /&gt;&lt;/p&gt;
@@ -375,71 +375,71 @@
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/dan_abramov&quot;&gt;https://twitter.com/dan_abramov&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;2). Sarah Dresner&lt;/h2&gt;
 &lt;p&gt;A speaker, developer at Netlify, Vue core team member, and &lt;a href=&quot;https://css-tricks.com/author/sdrasner/&quot;&gt;Staff Writer at CSS-Tricks&lt;/a&gt;. Definitely recommend checking her courses on &lt;a href=&quot;https://frontendmasters.com/teachers/sarah-drasner/&quot;&gt;Frontend Masters&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.34.42-1024x513.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.34.42.png&quot; alt=&quot;TTT&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://sarah.dev/&quot;&gt;https://sarah.dev/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/sarah_edo&quot;&gt;https://twitter.com/sarah_edo&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;3). Lea Verou&lt;/h2&gt;
 &lt;p&gt;Front end web developer. Author of &lt;a href=&quot;https://www.amazon.com/CSS-Secrets-Lea-Verou/dp/1449372635?tag=leaverou-20&quot;&gt;CSS Secrets&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.49.17-1024x515.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.49.17.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://lea.verou.me/&quot;&gt;https://lea.verou.me/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/LeaVerou&quot;&gt;https://twitter.com/LeaVerou&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;4). Quincy Larson&lt;/h2&gt;
 &lt;p&gt;The founder of &lt;a href=&quot;https://www.freecodecamp.org/news/author/quincylarson/&quot;&gt;freeCodeCamp.org&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.50.38-1024x822.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.50.38.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ossia&quot;&gt;https://twitter.com/ossia&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;5). Flavio Copes&lt;/h2&gt;
 &lt;p&gt;A passionate software engineer, author of &lt;a href=&quot;https://flaviocopes.com/page/ebooks/&quot;&gt;many books&lt;/a&gt; and tutorials.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.36.04-1024x490.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.36.04.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://flaviocopes.com/&quot;&gt;https://flaviocopes.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/flaviocopes&quot;&gt;https://twitter.com/flaviocopes&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;6). Wes Bos&lt;/h2&gt;
 &lt;p&gt;A well known full stack developer, co-host of &lt;a href=&quot;https://syntax.fm/&quot;&gt;Syntax&lt;/a&gt; podcast, and an author of amazing &lt;a href=&quot;https://wesbos.com/courses&quot;&gt;courses&lt;/a&gt;. Creator of &lt;a href=&quot;https://uses.tech/&quot;&gt;uses.tech&lt;/a&gt; project.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.37.03-1024x530.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.37.03.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://wesbos.com/blog&quot;&gt;https://wesbos.com/blog&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/wesbos&quot;&gt;https://twitter.com/wesbos&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;7). Brian Holt&lt;/h2&gt;
 &lt;p&gt;A software engineer, working in Microsoft (VS Code team). A charismatic author of the Fronted Masters&#39;s &lt;a href=&quot;https://frontendmasters.com/teachers/brian-holt/&quot;&gt;courses&lt;/a&gt; that I like the most.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.38.12-1024x854.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.38.12.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/holtbt&quot;&gt;https://twitter.com/holtbt&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;8). Ahmad Shadeed&lt;/h2&gt;
 &lt;p&gt;Design-oriented Front End Developer. An author of &lt;a href=&quot;https://debuggingcss.com/&quot;&gt;Debugging CSS&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.52.13-1024x475.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.52.13.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://ishadeed.com/&quot;&gt;https://ishadeed.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/shadeed9&quot;&gt;https://twitter.com/shadeed9&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;9). Kyle Simpson&lt;/h2&gt;
 &lt;p&gt;The author of &lt;a href=&quot;https://github.com/getify/You-Dont-Know-JS&quot;&gt;You Don&#39;t Know JS&lt;/a&gt; book series. Kyle has a couple of great &lt;a href=&quot;https://frontendmasters.com/teachers/kyle-simpson/&quot;&gt;courses&lt;/a&gt; on Frontend Masters as well.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.39.47-1024x856.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.39.47.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://me.getify.com/&quot;&gt;https://me.getify.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/getify&quot;&gt;https://twitter.com/getify&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;10). Chris Coyier&lt;/h2&gt;
 &lt;p&gt;Created &lt;a href=&quot;https://css-tricks.com/&quot;&gt;CSS-Tricks&lt;/a&gt; - one of the most useful and inspiring platforms with web dev related articles. Co-founder of &lt;a href=&quot;https://codepen.io/&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.42.46-1024x491.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.42.46.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://chriscoyier.net/blog/&quot;&gt;https://chriscoyier.net/blog/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/chriscoyierhttps://chriscoyier.net/&quot;&gt;https://twitter.com/chriscoyier&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;11). Jason Lengstorf&lt;/h2&gt;
 &lt;p&gt;Enthusiastic web developer at Netlify. A host of &lt;a href=&quot;https://www.learnwithjason.dev/&quot;&gt;Learn With Jason&lt;/a&gt; live show. Jason is also a teacher on &lt;a href=&quot;https://frontendmasters.com/teachers/jason-lengstorf/&quot;&gt;Frontend Masters&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.40.57-1024x463.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.40.57.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.jason.af/&quot;&gt;https://www.jason.af/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/jlengstorf&quot;&gt;https://twitter.com/jlengstorf&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;12). Amelia Wattenberger&lt;/h2&gt;
 &lt;p&gt;The author of the &lt;a href=&quot;https://www.newline.co/fullstack-d3&quot;&gt;Fullstack D3&lt;/a&gt; book and a very beautiful website. Shares her &lt;a href=&quot;https://wattenberger.com/blog&quot;&gt;thoughts&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.45.40-1024x510.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.45.40.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://wattenberger.com/&quot;&gt;https://wattenberger.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/wattenberger&quot;&gt;https://twitter.com/wattenberger&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;13). Jenn Schiffer&lt;/h2&gt;
 &lt;p&gt;Jenn Schiffer is a web app developer, &lt;a href=&quot;https://jennmoney.biz/art/index.html&quot;&gt;pixel artist&lt;/a&gt;, and tech satirist.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.47.32-1-1024x524.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.47.32-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://livelaugh.blog/&quot;&gt;https://livelaugh.blog/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://jennmoney.biz/&quot;&gt;https://jennmoney.biz/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/jennschiffer&quot;&gt;https://twitter.com/jennschiffer&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;14). Katy DeCorah&lt;/h2&gt;
 &lt;p&gt;Katy is a frontend engineer and author of an inspiring all-around &lt;a href=&quot;https://katydecorah.com/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.44.28-1024x479.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.44.28.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://katydecorah.com/&quot;&gt;https://katydecorah.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/katydecorah&quot;&gt;https://twitter.com/katydecorah&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;15). Vadim Makeev&lt;/h2&gt;
 &lt;p&gt;Vadim is the founder of &lt;a href=&quot;https://twitter.com/webstandards_ru&quot;&gt;Web Standards&lt;/a&gt;, the first Russian front end community. The host of the Russian speaking &lt;a href=&quot;https://itunes.apple.com/podcast/id1080500016&quot;&gt;Web Standards podcast&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.51.15-1024x794.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.51.15.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/pepelsbey_&quot;&gt;https://twitter.com/pepelsbey_&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Please feel free to complete the list by replying to this post. Which blogs do you like best?&lt;/p&gt;
 &lt;hr /&gt;
@@ -453,7 +453,7 @@
 		<link href="/eleventy-stylus-blog-theme/posts/2020-12-05-15-best-developer-resources-in-2020/"/>
 		<updated>2020-12-05T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2020-12-05-15-best-developer-resources-in-2020/</id>
-		<content type="html">&lt;p&gt;Today I will continue my &lt;a href=&quot;https://create-react-app.com/tag/top/&quot;&gt;Top 15 series&lt;/a&gt; with a brief overview of the best developer resources that I use daily. It is worth saying that there are a lot of great resources that are left behind the brackets. &lt;a href=&quot;https://dev.to/villivald&quot;&gt;Dev.to&lt;/a&gt;, &lt;a href=&quot;https://create-react-app.medium.com/&quot;&gt;Medium&lt;/a&gt;, &lt;a href=&quot;https://stackoverflow.com/&quot;&gt;Stack Overflow&lt;/a&gt;, &lt;a href=&quot;https://github.com/villivald&quot;&gt;GitHub&lt;/a&gt;, and many more obvious ones.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Today I will continue my &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;Top 15 series&lt;/a&gt; with a brief overview of the best developer resources that I use daily. It is worth saying that there are a lot of great resources that are left behind the brackets. &lt;a href=&quot;https://dev.to/villivald&quot;&gt;Dev.to&lt;/a&gt;, &lt;a href=&quot;https://create-react-app.medium.com/&quot;&gt;Medium&lt;/a&gt;, &lt;a href=&quot;https://stackoverflow.com/&quot;&gt;Stack Overflow&lt;/a&gt;, &lt;a href=&quot;https://github.com/villivald&quot;&gt;GitHub&lt;/a&gt;, and many more obvious ones.&lt;/p&gt;
 &lt;h2&gt;1). FreeCodeCamp&lt;/h2&gt;
 &lt;p&gt;One of the most inspiring and beginner-friendly open-source developer communities.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/14/Screenshot-2020-12-04-at-23.07.39.png&quot; alt=&quot;TTT&quot; /&gt;&lt;/p&gt;
@@ -492,7 +492,7 @@
 &lt;p&gt;&lt;a href=&quot;https://uses.tech/&quot;&gt;https://uses.tech/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;10). Web Skills&lt;/h2&gt;
 &lt;p&gt;A visual overview of useful skills to learn as a web developer.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/14/Screenshot-2020-12-04-at-2-1024x516.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/14/Screenshot-2020-12-04-at-23.05.23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://andreasbm.github.io/web-skills/&quot;&gt;https://andreasbm.github.io/web-skills/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;11). Roadmap.sh&lt;/h2&gt;
 &lt;p&gt;Frontend Developer Roadmap.&lt;/p&gt;
@@ -715,10 +715,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.mooc.fi/en&quot;&gt;https://www.mooc.fi/en&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Free&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;a href=&quot;https://proj.create-react-app.com/&quot;&gt;My Site&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://villivald.com/&quot;&gt;My Site&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href=&quot;https://github.com/villivald&quot;&gt;GitHub&lt;/a&gt;&lt;/h3&gt;
-&lt;h3&gt;Share&lt;/h3&gt;
-&lt;script src=&quot;https://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
 </content>
 	</entry>
 	
@@ -730,11 +728,11 @@
 		<content type="html">&lt;p&gt;Literally, the other day, I finished a university course that was called &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php?lang=en&amp;amp;term=Web%20ja%20peliteknologian%20perusteet#result-21260&quot;&gt;Web and Game technologies basics&lt;/a&gt;. It included a brief introduction of the PHP, MariaDB, Linux (Bash), and some server-side interactions as well.&lt;/p&gt;
 &lt;p&gt;To be honest, I had huge prejudices about PHP as a modern programming language. So, I was surprised when I heard what language was chosen for this course. For some reason, PHP always reminded me of &lt;a href=&quot;http://www.arngren.net/&quot;&gt;times&lt;/a&gt; when I tried to make simple sites while going to school in early 2000. Anyway, it turned out, that in some sense, PHP is really an obsolete language with a strange syntax. But, on the other hand, it still has a large amount of code written on it and remains in demand.&lt;/p&gt;
 &lt;p&gt;The general assignment on the course was an implementation of a website, with which the user can view the price catalog of a &lt;a href=&quot;https://www.alko.fi/en/&quot;&gt;local liquor store&lt;/a&gt;. It was also necessary that the user can be able to filter the search results in a few different ways. It was a difficult enough assignment for a beginner like me, especially given that I haven&#39;t made anything with PHP before.&lt;/p&gt;
-&lt;p&gt;To complete the assignment, I had to create a container on the school server. Install there the PHP support, PHPMyAdmin, and database (&lt;a href=&quot;https://mariadb.org/&quot;&gt;MariaDB&lt;/a&gt;) as well as the webserver (&lt;a href=&quot;https://www.lighttpd.net/&quot;&gt;Lighttpd&lt;/a&gt;). After that, I had to turn the given .csv file with the catalog into a database. Finally, when I had a working database with the right data, I could build the website using PHP. At last, I got &lt;a href=&quot;https://old.create-react-app.com/Projects/PHP/&quot;&gt;the result&lt;/a&gt;, which meets most of the requirements, but nevertheless has certain flaws.&lt;/p&gt;
+&lt;p&gt;To complete the assignment, I had to create a container on the school server. Install there the PHP support, PHPMyAdmin, and database (&lt;a href=&quot;https://mariadb.org/&quot;&gt;MariaDB&lt;/a&gt;) as well as the webserver (&lt;a href=&quot;https://www.lighttpd.net/&quot;&gt;Lighttpd&lt;/a&gt;). After that, I had to turn the given .csv file with the catalog into a database. Finally, when I had a working database with the right data, I could build the website using PHP. At last, I got &lt;a href=&quot;https://old.villivald.com/Projects/PHP/&quot;&gt;the result&lt;/a&gt;, which meets most of the requirements, but nevertheless has certain flaws.&lt;/p&gt;
 &lt;p&gt;On the image below you can see an example of the interface.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/11/Screenshot-2020-10-29-at-15.49.29.png&quot; alt=&quot;php&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;P.S.&lt;/h3&gt;
-&lt;p&gt;As you might know, &lt;a href=&quot;https://create-react-app.com/10-hacktoberfest/&quot;&gt;Hacktoberfest&lt;/a&gt; is almost over. So, you understand what I mean (t-shirt).&lt;/p&gt;
+&lt;p&gt;As you might know, &lt;a href=&quot;https://www.create-react-app.com/posts/2020-10-13-10-hacktoberfest/&quot;&gt;Hacktoberfest&lt;/a&gt; is almost over. So, you understand what I mean (t-shirt).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/11/DKjtY63.png&quot; alt=&quot;php&quot; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3&gt;&lt;a href=&quot;https://proj.create-react-app.com/&quot;&gt;Site&lt;/a&gt;&lt;/h3&gt;
@@ -751,14 +749,14 @@
 &lt;h3&gt;Pull requests&lt;/h3&gt;
 &lt;p&gt;I did both. First and foremost, I started by figuring out what the heck is a pull request. I mean, I used GitHub a lot before, but somehow it went past me. I was familiar with pushing, pulling, commits, repos, branches, and so on, but I have never used pull requests in my projects. Anyway, it turned out that it is quite a simple procedure. So, after some digging of information, I have already made my first pull request. You can see it in the picture below.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/10/Screenshot-2020-10-13-at-16.55.41.png&quot; alt=&quot;github&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;My pull requests may not be the most useful in the world, but I tried my best. The primary purpose was to try new technologies and to learn new skills. Among other things, I implemented a &lt;a href=&quot;https://github.com/imyjimmy/hacktoberfest-app/commit/56b8f75d8cb30dd1dc79112b6afda6e06b61ddd5&quot;&gt;dropdown menu button&lt;/a&gt; with the React Bootstrap library. Later I have also added &lt;a href=&quot;https://github.com/GHATAK123/Javascript-Interview-Cheatsheet/commit/2a8769b87dff9b43120e3560119cc5ced00a0861&quot;&gt;some information&lt;/a&gt; about using &lt;a href=&quot;https://create-react-app.com/javascript-data-types/&quot;&gt;data types in JS&lt;/a&gt; to the JavaScript Interview Cheatsheet repository.&lt;/p&gt;
+&lt;p&gt;My pull requests may not be the most useful in the world, but I tried my best. The primary purpose was to try new technologies and to learn new skills. Among other things, I implemented a &lt;a href=&quot;https://github.com/imyjimmy/hacktoberfest-app/commit/56b8f75d8cb30dd1dc79112b6afda6e06b61ddd5&quot;&gt;dropdown menu button&lt;/a&gt; with the React Bootstrap library. Later I have also added &lt;a href=&quot;https://github.com/GHATAK123/Javascript-Interview-Cheatsheet/commit/2a8769b87dff9b43120e3560119cc5ced00a0861&quot;&gt;some information&lt;/a&gt; about using &lt;a href=&quot;https://www.create-react-app.com/posts/2020-06-15-javascript-data-types/&quot;&gt;data types in JS&lt;/a&gt; to the JavaScript Interview Cheatsheet repository.&lt;/p&gt;
 &lt;h3&gt;Issues&lt;/h3&gt;
 &lt;p&gt;At this point, I realized that I have no idea what is the issue, so I started to think in that direction. After all, I opened one issue on each of my two most active repositories - &lt;a href=&quot;https://github.com/villivald/proj_react_2020&quot;&gt;React website&lt;/a&gt; and &lt;a href=&quot;https://github.com/villivald/todo_app_react_native_2020&quot;&gt;Todo App built with React Native&lt;/a&gt;. You can see the essence of the issues in the pictures below. I was pleasantly surprised by the responsiveness of the community, and I&#39;m very grateful to the people who helped me with the issues.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/10/Screenshot-2020-10-13-at-17.15.19.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/10/Screenshot-2020-10-13-at-17.15.41.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;a href=&quot;https://proj.create-react-app.com/&quot;&gt;Site&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://villivald.com/&quot;&gt;Site&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href=&quot;https://github.com/villivald&quot;&gt;GitHub&lt;/a&gt;&lt;/h3&gt;
 </content>
 	</entry>
@@ -768,9 +766,9 @@
 		<link href="/eleventy-stylus-blog-theme/posts/2020-09-29-new-website/"/>
 		<updated>2020-09-29T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2020-09-29-new-website/</id>
-		<content type="html">&lt;p&gt;So, as it may be understood from the title of this post, I have made a &lt;a href=&quot;https://proj.create-react-app.com/&quot;&gt;new website&lt;/a&gt; for my projects. This is not exactly a portfolio or a CV, but something like that. There I put everything that I do during &lt;a href=&quot;https://create-react-app.com/my-studies-at-the-university/&quot;&gt;my studies at the university&lt;/a&gt; and the self-studies.&lt;/p&gt;
+		<content type="html">&lt;p&gt;So, as it may be understood from the title of this post, I have made a &lt;a href=&quot;https://proj.create-react-app.com/&quot;&gt;new website&lt;/a&gt; for my projects. This is not exactly a portfolio or a CV, but something like that. There I put everything that I do during &lt;a href=&quot;https://www.create-react-app.com/posts/2020-05-29-creare-react-app-blog/&quot;&gt;my studies at the university&lt;/a&gt; and the self-studies.&lt;/p&gt;
 &lt;h3&gt;v. 1 - Skeleton&lt;/h3&gt;
-&lt;p&gt;The &lt;a href=&quot;https://old.create-react-app.com/Projects/Skeleton/index.html&quot;&gt;first version&lt;/a&gt; of the website was made almost a year ago as a web programming &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php#result-13407&quot;&gt;course&lt;/a&gt; assignment. That time I used &lt;a href=&quot;http://getskeleton.com/&quot;&gt;Skeleton&lt;/a&gt;, which is a very simple responsive CSS boilerplate, not so powerful as Bootstrap, but much easier to use. This version of the site was not so fancy, and, in a big way, just a &amp;quot;copy/paste&amp;quot; project from different tutorials.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://old.villivald.com/Projects/Skeleton/index.html&quot;&gt;first version&lt;/a&gt; of the website was made almost a year ago as a web programming &lt;a href=&quot;https://opetustarjontahaku.lab.fi/search.php#result-13407&quot;&gt;course&lt;/a&gt; assignment. That time I used &lt;a href=&quot;http://getskeleton.com/&quot;&gt;Skeleton&lt;/a&gt;, which is a very simple responsive CSS boilerplate, not so powerful as Bootstrap, but much easier to use. This version of the site was not so fancy, and, in a big way, just a &amp;quot;copy/paste&amp;quot; project from different tutorials.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-29-at-16.04.39.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;v. 2 - HTML, CSS, JS&lt;/h3&gt;
 &lt;p&gt;After a few months, I realized that I want to make a more &amp;quot;stylish&amp;quot; &lt;a href=&quot;https://old.create-react-app.com/&quot;&gt;website&lt;/a&gt;, for which I will not be so ashamed and even can show to someone. That time I decided not to use any kind of frameworks, and go with just HTML, CSS, and JS. I used a flexbox for styling components and implemented some more complicated things (e.g., glitching logo) if you compare it to the previous version. Anyway, the result turned out not to be so impressive.&lt;/p&gt;
@@ -810,7 +808,7 @@
 		<link href="/eleventy-stylus-blog-theme/posts/2020-09-13-8-university-zsh/"/>
 		<updated>2020-09-13T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2020-09-13-8-university-zsh/</id>
-		<content type="html">&lt;p&gt;Recently my second year at the University started, and I am happy to have some well-known routine in my study life. Nevertheless, in the first part of autumn, I will have only two courses: &lt;a href=&quot;https://opinto-opas.lab.fi/en/realization/A300CE13-3001&quot;&gt;Orientation to Sustainability Thinking (2 ECTS)&lt;/a&gt;, which is more about the sustainable picture in general and &lt;a href=&quot;https://opinto-opas.lab.fi/en/realization/AT00BT69-3001&quot;&gt;Technical Mathematics (3 ECTS)&lt;/a&gt;, which is just a regular theoretical course in math. The first one is completely independent, and on my part, is almost done and is waiting for evaluation. The math course is a regular lecture course and will run until the end of the year. Since the end of September, I will also start another &lt;a href=&quot;https://create-react-app.com/my-studies-at-the-university/&quot;&gt;University module&lt;/a&gt; dedicated to web development. I am looking forward to starting this particular module since web development is what interests me most at the moment.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Recently my second year at the University started, and I am happy to have some well-known routine in my study life. Nevertheless, in the first part of autumn, I will have only two courses: &lt;a href=&quot;https://opinto-opas.lab.fi/en/realization/A300CE13-3001&quot;&gt;Orientation to Sustainability Thinking (2 ECTS)&lt;/a&gt;, which is more about the sustainable picture in general and &lt;a href=&quot;https://opinto-opas.lab.fi/en/realization/AT00BT69-3001&quot;&gt;Technical Mathematics (3 ECTS)&lt;/a&gt;, which is just a regular theoretical course in math. The first one is completely independent, and on my part, is almost done and is waiting for evaluation. The math course is a regular lecture course and will run until the end of the year. Since the end of September, I will also start another &lt;a href=&quot;https://www.create-react-app.com/posts/2020-07-04-my-studies-at-the-university/&quot;&gt;University module&lt;/a&gt; dedicated to web development. I am looking forward to starting this particular module since web development is what interests me most at the moment.&lt;/p&gt;
 &lt;p&gt;By the way, I keep watching some &lt;a href=&quot;https://frontendmasters.com/&quot;&gt;FrontendMasters&lt;/a&gt; courses, and recently I went through the &lt;a href=&quot;https://frontendmasters.com/courses/linux-command-line/&quot;&gt;Complete Intro to Linux and the Command-Line&lt;/a&gt; named course by &lt;a href=&quot;https://frontendmasters.com/teachers/brian-holt/&quot;&gt;Brian Holt&lt;/a&gt;. This course was a lot of fun, and Brian is definitely one of the best teachers I have ever seen. I learned a lot about Zsh and Bash commands, such as &lt;em&gt;less&lt;/em&gt;, &lt;em&gt;Touch file{1..10..2}.txt&lt;/em&gt;, &lt;em&gt;rm -rf&lt;/em&gt;, &lt;em&gt;ls -lsah&lt;/em&gt;, &lt;em&gt;kill -9&lt;/em&gt;, &lt;em&gt;whoami&lt;/em&gt;, &lt;em&gt;ps aux&lt;/em&gt;, &lt;em&gt;wget&lt;/em&gt;, &lt;em&gt;curl&lt;/em&gt;, and so on. I refreshed my knowledge about using &lt;em&gt;sudo&lt;/em&gt; and manipulating user permissions. There was as well a whole part of the course related to the Vim and Nano, and yes, now I even know how to get out of Vim. I have also learned to create and use my own simple shell scripts, like:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;read -p &amp;quot;Enter a folder name: &amp;quot; FOLDER
 
@@ -840,7 +838,7 @@ echo done
 &lt;p&gt;First, I took a &lt;a href=&quot;https://frontendmasters.com/courses/design-for-developers/&quot;&gt;Design for Developers&lt;/a&gt; course by &lt;a href=&quot;https://www.linkedin.com/in/sarahdrasner/&quot;&gt;Sarah Drasner&lt;/a&gt; from the FrontendMasters. It gave me some inspiration to implement alternative approaches in the design of web applications. I have also refreshed my knowledge of Grid and CSS in general.&lt;/p&gt;
 &lt;p&gt;Then I had a brief (very brief) look at the &lt;a href=&quot;https://frontendmasters.com/courses/svelte/&quot;&gt;Svelte&lt;/a&gt; course by &lt;a href=&quot;https://twitter.com/Rich_Harris&quot;&gt;Rich Harris&lt;/a&gt; himself. I find Svelte to be a very promising and intriguing framework, and I will definitely go back to learn it when I will have more time.&lt;/p&gt;
 &lt;p&gt;Further, I was interested in React Native because of its flexibility and the option to develop both Android and iOS applications at the same time. That way, I started with a &lt;a href=&quot;https://frontendmasters.com/courses/react-native-v2/&quot;&gt;React Native&lt;/a&gt; course by &lt;a href=&quot;https://www.linkedin.com/in/kadi-kraman-922a7277/&quot;&gt;Kadi Kraman&lt;/a&gt;. This course was good enough for starting with React Native, but on the other hand, it was too short and left me with a lot of questions and concerns. For that reason, I bought an Udemy &lt;a href=&quot;https://www.udemy.com/course/react-native-the-practical-guide/&quot;&gt;React Native - The Practical Guide&lt;/a&gt; course by &lt;a href=&quot;https://www.linkedin.com/in/maximilian-schwarzm%C3%BCller-66b152a5/&quot;&gt;Maximilian Schwarzmüller&lt;/a&gt;, which is much more complete and comprehensive.&lt;/p&gt;
-&lt;p&gt;At the moment, I have passed about 20% of the course (it is 30+ hours long). I also made my first React Native App, which is a to-do app, just like my last &lt;a href=&quot;https://create-react-app.com/react-todo-app/&quot;&gt;React project&lt;/a&gt;. I will try to develop it during the course, and my goal would be to make a simple and useful application with a clear design. Currently, the code of the project can be found on my &lt;a href=&quot;https://github.com/villivald/react_native_todo_app&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;At the moment, I have passed about 20% of the course (it is 30+ hours long). I also made my first React Native App, which is a to-do app, just like my last &lt;a href=&quot;https://old.villivald.com/todo/&quot;&gt;React project&lt;/a&gt;. I will try to develop it during the course, and my goal would be to make a simple and useful application with a clear design. Currently, the code of the project can be found on my &lt;a href=&quot;https://github.com/villivald/react_native_todo_app&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Blog: &lt;a href=&quot;https://create-react-app.com/&quot;&gt;https://create-react-app.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Site: &lt;a href=&quot;https://proj.create-react-app.com/&quot;&gt;https://proj.create-react-app.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Site (mirror on github): &lt;a href=&quot;https://villivald.github.io/proj/&quot;&gt;https://villivald.github.io/proj/&lt;/a&gt;&lt;/p&gt;
@@ -853,7 +851,7 @@ echo done
 		<updated>2020-07-28T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2020-07-28-6-javascript-methods-map-filter-reduce/</id>
 		<content type="html">&lt;p&gt;I am still focusing on learning JavaScript and especially different JavaScript methods while waiting for the next academic year to begin. The first courses are due to start in early September, so it’s not so long to wait anymore. I hope that it will boost my productivity since now I feel extremely unfocused and a bit confused in the abundance of information.&lt;/p&gt;
-&lt;p&gt;Anyway, there is still certain progress in my skills. Now I will also probably write more often since I have an idea for a cycle of posts about JavaScript. The first post of this cycle was &lt;a href=&quot;https://create-react-app.com/5-javascript-spread-operator/&quot;&gt;published last week&lt;/a&gt; and was related to the topic of JS spread operator. In this post, I will go over some significant JavaScript methods such as map, filter, and reduce.&lt;/p&gt;
+&lt;p&gt;Anyway, there is still certain progress in my skills. Now I will also probably write more often since I have an idea for a cycle of posts about JavaScript. The first post of this cycle was &lt;a href=&quot;https://www.create-react-app.com/posts/2020-07-24-5-javascript-spread-operator/&quot;&gt;published last week&lt;/a&gt; and was related to the topic of JS spread operator. In this post, I will go over some significant JavaScript methods such as map, filter, and reduce.&lt;/p&gt;
 &lt;h3&gt;Map&lt;/h3&gt;
 &lt;p&gt;In this simple example of using a map(), I am creating a function &lt;strong&gt;fn&lt;/strong&gt; that takes two arguments - name and id. Then I pass some names to the function and convert the string to the desired form by using the map method.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;function fn(name, id) {
@@ -977,7 +975,7 @@ sumAll(1, 2, 3) // 6
 var letters = [...str]
 console.log(letters) // [ &#39;H&#39;, &#39;e&#39;, &#39;l&#39;, &#39;l&#39;, &#39;o&#39; ]
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Dividing an array into a number (&lt;strong&gt;z&lt;/strong&gt;) and an object (&lt;strong&gt;w&lt;/strong&gt;), which is, in fact, another array. (More about JS Data Types &lt;a href=&quot;https://create-react-app.com/javascript-data-types/&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Dividing an array into a number (&lt;strong&gt;z&lt;/strong&gt;) and an object (&lt;strong&gt;w&lt;/strong&gt;), which is, in fact, another array. (More about JS Data Types &lt;a href=&quot;https://www.create-react-app.com/posts/2020-06-15-javascript-data-types/&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;var [w, ...z] = [1, 2, 3]
 
 console.log(w, z) // 1 [2, 3]
@@ -1028,7 +1026,7 @@ console.log(typeof(x)) // object
 		<id>/eleventy-stylus-blog-theme/posts/2020-07-15-react-todo-app/</id>
 		<content type="html">&lt;p&gt;Finally, I have some time to write about my experience with React. When I am thinking about all the things I have learned over the last year, React seems to be the most tricky part of web development so far. I watched a bunch of videos and read a lot of everything. And even so, I don’t feel particularly confident in dealing with it.&lt;/p&gt;
 &lt;p&gt;I guess that the reason is not the complexity of React as a concept, but rather my insufficient understanding of the basics of JavaScript and things related to it. Learning to code turned out to be, at the same time, surprisingly inspiring but also difficult and multilayered. It also differs a lot from my entire previous student experience.&lt;/p&gt;
-&lt;p&gt;Anyway, in the last few days, I have been working on a React &lt;a href=&quot;https://proj.create-react-app.com/todo/&quot;&gt;Todo application&lt;/a&gt;. As you can see, the functionality of the app is quite limited at the moment. Right now it is only possible to create new tasks, mark tasks as done, or delete them. Nevertheless, I already have on my mind a few options for future development. First of all, I would like to add a possibility to edit tasks and restore them from the trash. Then, there could be some sort of calendar integration, or, at least, the ability to schedule tasks by days. Express could also be added in the future since now there is only local storage for storing information.&lt;/p&gt;
+&lt;p&gt;Anyway, in the last few days, I have been working on a React &lt;a href=&quot;https://old.villivald.com/todo/&quot;&gt;Todo application&lt;/a&gt;. As you can see, the functionality of the app is quite limited at the moment. Right now it is only possible to create new tasks, mark tasks as done, or delete them. Nevertheless, I already have on my mind a few options for future development. First of all, I would like to add a possibility to edit tasks and restore them from the trash. Then, there could be some sort of calendar integration, or, at least, the ability to schedule tasks by days. Express could also be added in the future since now there is only local storage for storing information.&lt;/p&gt;
 &lt;p&gt;The code of an application is available at my &lt;a href=&quot;https://github.com/villivald/proj/tree/master/todo/code&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The basic configuration of my project was as follows:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;npx create-react-app APP_NAME
@@ -1090,7 +1088,7 @@ npm install -D babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;I also made some minor changes to my website. There are screenshot and links below:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/4/Screenshot-2020-07-14-at-16.19.26.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://create-react-app.com/www/&quot;&gt;https://create-react-app.com/www/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://create-react-app.com/&quot;&gt;https://create-react-app.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://proj.create-react-app.com/&quot;&gt;https://proj.create-react-app.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://villivald.github.io/proj/&quot;&gt;https://villivald.github.io/proj/&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -1101,7 +1099,7 @@ npm install -D babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal
 		<link href="/eleventy-stylus-blog-theme/posts/2020-07-04-my-studies-at-the-university/"/>
 		<updated>2020-07-04T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2020-07-04-my-studies-at-the-university/</id>
-		<content type="html">&lt;p&gt;As I mentioned in &lt;a href=&quot;https://create-react-app.com/creare-react-app-blog/&quot;&gt;one of my previous posts&lt;/a&gt;, I am currently studying IT at the LAB University of Applied Sciences (Finland, Lahti). The first year of my studies ended about one month ago, and in the coming fall, I will continue with the second one.&lt;/p&gt;
+		<content type="html">&lt;p&gt;As I mentioned in &lt;a href=&quot;https://www.create-react-app.com/posts/2020-05-29-creare-react-app-blog/&quot;&gt;one of my previous posts&lt;/a&gt;, I am currently studying IT at the LAB University of Applied Sciences (Finland, Lahti). The first year of my studies ended about one month ago, and in the coming fall, I will continue with the second one.&lt;/p&gt;
 &lt;p&gt;During the first year, we had basically a lot of core studies, like English, math, and physics, which is, I think, quite common. Fortunately, we also had some courses on more IT-related topics: web development (HTML, CSS &amp;amp; JS), basics of software engineering (Python, SQL), servers, virtualization, etc.&lt;/p&gt;
 &lt;p&gt;Anyway, after the first year, we will need to choose our study path more precisely. So, as you can see from the picture below, every student has a lot of options to choose from. The point is to choose 7 modules (except the lower module and also the thesis and internship). Each module worth 15 credits and to graduate you need to complete 240 credits in four years. At the moment, I have 90 credits, so I guess it is pretty realistic.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/3/D9E820F7-5FCB-4F30-BDEE-6EEB2533DCDE.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -1118,7 +1116,7 @@ npm install -D babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal
 		<id>/eleventy-stylus-blog-theme/posts/2020-07-02-js-minesweeper-app/</id>
 		<content type="html">&lt;p&gt;Well, it&#39;s been over two weeks since the start of my vacation. Before it started, I thought I was going to &lt;a href=&quot;https://create-react-app.com/&quot;&gt;write here&lt;/a&gt; more often, but there were many other things and so on. Due to the coronavirus situation, it was almost impossible to travel anywhere except within the country. So we had a couple of car trips inside Finland (Tampere, Lahti, Järvenpää, Kirkkonummi, etc).&lt;/p&gt;
 &lt;p&gt;Anyway, my self-learning continues and I could say that I&#39;m getting more familiar with JavaScript and React. There will be a separate post fully dedicated to React in a few days (I hope).&lt;/p&gt;
-&lt;p&gt;But let&#39;s get back to the point of this post. In the last few days, I&#39;ve been working on a minor JS project. I was trying to make a simple JS Minesweeper game. So, there is the &lt;a href=&quot;https://proj.create-react-app.com/Projects/MineSweeper/index.html&quot;&gt;result&lt;/a&gt;. At the moment, the game works to some extent, but I guess it still needs a couple of improvements.&lt;/p&gt;
+&lt;p&gt;But let&#39;s get back to the point of this post. In the last few days, I&#39;ve been working on a minor JS project. I was trying to make a simple JS Minesweeper game. So, there is the &lt;a href=&quot;https://old.villivald.com/Projects/MineSweeper/index.html&quot;&gt;result&lt;/a&gt;. At the moment, the game works to some extent, but I guess it still needs a couple of improvements.&lt;/p&gt;
 &lt;p&gt;I noticed a few lags, especially this applies to the corners of the map where it occasionally behaves weirdly. In the near future, I will try to fix them and, I suppose, I will also make some changes to CSS as well.&lt;/p&gt;
 &lt;p&gt;You can try the game (and see my other projects) by clicking one of the links below:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://villivald.github.io/proj/&quot;&gt;https://villivald.github.io/proj/&lt;/a&gt;&lt;/p&gt;
