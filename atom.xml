@@ -5,7 +5,7 @@
 	
 	<link href="/eleventy-stylus-blog-theme/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2021-06-06T15:10:50Z</updated>
+	<updated>2021-06-07T09:52:52Z</updated>
 	<id>https://create-react-app.com</id>
 	<author>
 		<name>MV</name>
@@ -144,50 +144,48 @@
 		<content type="html">&lt;p&gt;It is time to continue my new blog post series - Top 10 Best Web Dev Tools, which I &lt;a href=&quot;https://create-react-app.com/18-top-10-web-dev-tools-03-2021/&quot;&gt;started&lt;/a&gt; almost one month ago. Every month I will try to pick the most intriguing and handy tools that I believe are must-haves for every web developer.&lt;/p&gt;
 &lt;h2&gt;1). Daily Dev&lt;/h2&gt;
 &lt;p&gt;The best coding news aggregator I have seen so far (yes, including &lt;a href=&quot;https://create-react-app.com/15-best-developer-resources-in-2020/&quot;&gt;Hacker News&lt;/a&gt;). Available both as a &lt;a href=&quot;https://app.daily.dev/&quot;&gt;web app&lt;/a&gt; and &lt;a href=&quot;https://r.daily.dev/chrome&quot;&gt;extension&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-04-06-at-16.30.36-1024x535.png&quot; alt=&quot;daily dev&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/19/Screenshot-2021-04-06-at-16.30.36.png&quot; alt=&quot;daily dev&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://daily.dev/&quot;&gt;https://daily.dev/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;2). HTTP Cats&lt;/h2&gt;
 &lt;p&gt;A hilarious API that you can use in your website to show funny error messages. For those who are not in the team cat, there is also a &lt;a href=&quot;https://httpstatusdogs.com/&quot;&gt;dog version&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-04-06-at-16.27.26-1024x597.png&quot; alt=&quot;http cats&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/19/Screenshot-2021-04-06-at-16.27.26.png&quot; alt=&quot;http cats&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://http.cat/&quot;&gt;https://http.cat/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;3). Ray.so&lt;/h2&gt;
 &lt;p&gt;A super cool tool that helps you create some good-looking content for your blog or social media. I will definitely use it the future posts.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-04-06-at-16.28.20-1024x517.png&quot; alt=&quot;ray.so&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/19/Screenshot-2021-04-06-at-16.28.20.png&quot; alt=&quot;ray.so&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://ray.so/&quot;&gt;https://ray.so/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;4). JSitor&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://create-react-app.com/18-top-10-web-dev-tools-03-2021/&quot;&gt;Last month&lt;/a&gt; I mentioned Stackblitz, which is a great online code editor for web apps. This time I would like to present a tool with a bit narrower application, which is nevertheless very useful when working with JavaScript.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-04-06-at-16.29.28-1024x541.png&quot; alt=&quot;jsitor&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.29.28.png&quot; alt=&quot;jsitor&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://jsitor.com/&quot;&gt;https://jsitor.com/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;5). Can I use...&lt;/h2&gt;
 &lt;p&gt;I suppose there must be at least one pick from captain obvious every month. This time it is a widely known resource - Can I use...&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-04-06-at-16.30.23-1024x502.png&quot; alt=&quot;can i use&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.30.23.png&quot; alt=&quot;can i use&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://caniuse.com/&quot;&gt;https://caniuse.com/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;6). VIM Adventures&lt;/h2&gt;
 &lt;p&gt;In fact, this is not a tool but an online environment that allows you to learn VIM in a game-like manner. As for this topic, I may as well recommend the &lt;a href=&quot;https://frontendmasters.com/workshops/vim-fundamentals/&quot;&gt;Vim Fundamentals&lt;/a&gt; course by Frontend Masters.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-04-06-at-16.29.00-1024x519.png&quot; alt=&quot;vim adventures&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.29.00.png&quot; alt=&quot;vim adventures&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://vim-adventures.com/&quot;&gt;https://vim-adventures.com/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;7). 30 seconds of code&lt;/h2&gt;
 &lt;p&gt;An extensive collection of code snippets for all occasions and all skill levels.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-04-06-at-16.20.02-1024x595.png&quot; alt=&quot;30 seconds of code&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.20.02.png&quot; alt=&quot;30 seconds of code&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.30secondsofcode.org/&quot;&gt;https://www.30secondsofcode.org/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;8). Cool Backgrounds&lt;/h2&gt;
 &lt;p&gt;A curated selection of cool backgrounds that you can add to blogs and websites. It also provides a broad scope for modification.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-04-06-at-16.26.57-1024x541.png&quot; alt=&quot;cool backgrounds&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.26.57.png&quot; alt=&quot;cool backgrounds&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://coolbackgrounds.io/&quot;&gt;https://coolbackgrounds.io/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;9). Grid Cheatsheet&lt;/h2&gt;
 &lt;p&gt;It is another useful cheat sheet, presented in visual and easy to interpret form. From the authors of &lt;a href=&quot;https://create-react-app.com/18-top-10-web-dev-tools-03-2021/&quot;&gt;Flex cheatsheet&lt;/a&gt; (pick number 10).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-04-06-at-16.31.41-1024x542.png&quot; alt=&quot;grid cheatsheet&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.31.41.png&quot; alt=&quot;grid cheatsheet&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://yoksel.github.io/grid-cheatsheet/&quot;&gt;https://yoksel.github.io/grid-cheatsheet/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;10). uiGradients&lt;/h2&gt;
 &lt;p&gt;A handpicked collection of beautiful color gradients for all kinds of designers and developers.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/IMG_0180-1024x598.jpg&quot; alt=&quot;ui gradients&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/IMG_0180.jpg&quot; alt=&quot;ui gradients&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://uigradients.com/#Lizard&quot;&gt;https://uigradients.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;P.S. Please feel free to complete the list by replying to this post. Which web dev tools do you like best?&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3&gt;&lt;a href=&quot;https://villivald.com/&quot;&gt;My Site&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href=&quot;https://github.com/villivald&quot;&gt;GitHub&lt;/a&gt;&lt;/h3&gt;
-&lt;h3&gt;Share&lt;/h3&gt;
-&lt;script src=&quot;https://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
 </content>
 	</entry>
 	
@@ -199,44 +197,44 @@
 		<content type="html">&lt;p&gt;Today I would like to start my new blog post series - Top 10 Must-Have Web Dev Tools. It will be partly a continuation of my last year&#39;s series (&lt;a href=&quot;https://create-react-app.com/tag/top/&quot;&gt;WP&lt;/a&gt; / &lt;a href=&quot;https://dev.to/villivald/series/9717&quot;&gt;DEV&lt;/a&gt;) but not quite. The reason for the appearance of this idea is that recently I have accumulated a huge number of links that I would like to share with everyone. I plan to do similar reviews once a month and hope these lists will be useful to someone. So, let&#39;s start with March 2021 edition.&lt;/p&gt;
 &lt;h2&gt;1). Squoosh&lt;/h2&gt;
 &lt;p&gt;Squoosh is the most intuitive and good-looking image compression web app I have ever seen. It works very fast and supports many formats (AVIF, WebP, JPEG XL, etc.).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-21.44.16-1024x826.png&quot; alt=&quot;squoosh&quot; /&gt;
-&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-21.44.58-1024x528.png&quot; alt=&quot;squoosh&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-21.44.16.png&quot; alt=&quot;squoosh&quot; /&gt;
+&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-21.44.58.png&quot; alt=&quot;squoosh&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://squoosh.app/&quot;&gt;https://squoosh.app/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;2). Glassmorphism&lt;/h2&gt;
 &lt;p&gt;This tool helps you to create web design elements inspired by the popular Frosted Glass aesthetic.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-21.45.32-1024x780.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-21.45.32.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://glassmorphism.com/&quot;&gt;https://glassmorphism.com/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;3). VisuAlgo&lt;/h2&gt;
 &lt;p&gt;A VisuAlgo is the ultimate tool to learn data structures and algorithms visually.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-21.46.34-1024x532.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-21.46.34.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://visualgo.net/en&quot;&gt;https://visualgo.net/en&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;4). EStimator&lt;/h2&gt;
 &lt;p&gt;The EStimator will help if you want to reduce the size of your JS bundle. It allows calculating the size and performance impact of switching to modern JavaScript syntax.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-21.56.31-1-1024x564.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-21.56.31.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://estimator.dev/&quot;&gt;https://estimator.dev/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;5). Netlify&lt;/h2&gt;
 &lt;p&gt;Perhaps the most obvious, but nonetheless very useful pick. Netlify is an amazing platform allowing you to deploy in just a few clicks straight from your git repository.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-21.57.15-1024x433.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-21.57.15.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;https://www.netlify.com/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;6). Hoppscotch&lt;/h2&gt;
 &lt;p&gt;A free, fast, and beautiful API request builder. A noteworthy alternative to Postman.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-21.57.29-1024x532.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-21.57.29.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://hoppscotch.io/&quot;&gt;https://hoppscotch.io/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;7). Stackblitz&lt;/h2&gt;
 &lt;p&gt;The online code editor for web apps. A wonderful VS Code-like alternative to other online IDE&#39;s like Repl, CodePen, etc.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-22.54.31-1024x348.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-22.54.31.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://stackblitz.com/&quot;&gt;https://stackblitz.com/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;8). Buttonbuddy&lt;/h2&gt;
 &lt;p&gt;A simple and easy-to-use tool for creating accessible buttons. It helps you to ensure that your buttons have accessible contrasts.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-22.55.19-1024x507.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-22.55.19.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://buttonbuddy.dev/#generator&quot;&gt;https://buttonbuddy.dev/#generator&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;9). Refactoring Guru&lt;/h2&gt;
 &lt;p&gt;This resource could be a great starting point for someone interested in refactoring and design patterns.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-07-at-22.53.48-1024x531.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-07-at-22.53.48.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://refactoring.guru/refactoring&quot;&gt;https://refactoring.guru/refactoring&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;10). Flex Cheatsheet&lt;/h2&gt;
 &lt;p&gt;A great visual cheat sheet for CSS Flex layout in a form of an interactive playground.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2021-03-08-at-13.54.25-1024x518.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-03-08-at-13.54.25.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools - March 2021&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://yoksel.github.io/flex-cheatsheet/&quot;&gt;https://yoksel.github.io/flex-cheatsheet/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;P.S. Please feel free to complete the list by replying to this post. Which web dev tools do you like best?&lt;/p&gt;
 &lt;hr /&gt;
