@@ -5,7 +5,7 @@
 	
 	<link href="/eleventy-stylus-blog-theme/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2021-06-07T10:59:53Z</updated>
+	<updated>2021-06-08T09:17:43Z</updated>
 	<id>https://create-react-app.com</id>
 	<author>
 		<name>MV</name>
@@ -1134,6 +1134,7 @@ npm install -D babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal
 		<id>/eleventy-stylus-blog-theme/posts/2020-06-15-javascript-data-types/</id>
 		<content type="html">&lt;p&gt;In addition to my main studies, I constantly watch &lt;a href=&quot;https://frontendmasters.com/&quot;&gt;FrontendMasters&lt;/a&gt; courses. Those courses are mostly about JavaScript, HTML, CSS, web development in general and things like that. So in this post, I&#39;ll share some considerations about JavaScript data types.&lt;/p&gt;
 &lt;p&gt;Well, at first, there are some basic data types, like strings, numbers and booleans (true vs false):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/codeImages/types.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;console.log(typeof &amp;quot;Test&amp;quot;)
 → string
 &lt;/code&gt;&lt;/pre&gt;
