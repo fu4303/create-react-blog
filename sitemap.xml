@@ -192,12 +192,17 @@
   </url>
   
   <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/game/</loc>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/data/</loc>
     <lastmod>2021-06-10</lastmod>
   </url>
   
   <url>
     <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/javascript/</loc>
+    <lastmod>2021-06-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/game/</loc>
     <lastmod>2021-06-10</lastmod>
   </url>
   
@@ -213,11 +218,6 @@
   
   <url>
     <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/project/</loc>
-    <lastmod>2021-06-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/data/</loc>
     <lastmod>2021-06-10</lastmod>
   </url>
   
@@ -352,6 +352,26 @@
   </url>
   
   <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/css/</loc>
+    <lastmod>2021-06-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/html/</loc>
+    <lastmod>2021-06-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/site/</loc>
+    <lastmod>2021-06-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/www/</loc>
+    <lastmod>2021-06-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/bash/</loc>
     <lastmod>2021-06-10</lastmod>
   </url>
@@ -373,26 +393,6 @@
   
   <url>
     <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/zsh/</loc>
-    <lastmod>2021-06-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/css/</loc>
-    <lastmod>2021-06-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/html/</loc>
-    <lastmod>2021-06-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/site/</loc>
-    <lastmod>2021-06-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://create-react-app.com/eleventy-stylus-blog-theme/tags/www/</loc>
     <lastmod>2021-06-10</lastmod>
   </url>
   
