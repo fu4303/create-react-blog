@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Create React App Blog</title>
+	<title>⚡️ Create React App Blog</title>
 	<subtitle>Web Dev Tools, Productivity Tips &amp; Stories About My Journey to Become a Developer</subtitle>
 	
 	<link href="/eleventy-stylus-blog-theme/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2021-06-08T09:17:43Z</updated>
+	<updated>2021-06-10T15:46:19Z</updated>
 	<id>https://create-react-app.com</id>
 	<author>
 		<name>MV</name>
