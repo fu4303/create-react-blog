@@ -4,7 +4,7 @@ module.exports = {
     description:
       "Web Dev Tools, Productivity Tips & Stories About My Journey to Become a Developer",
     lang: "en",
-    siteUrl: "https://create-react-app.com/",
+    siteUrl: "https://create-react-blog.vercel.app",
   },
   feed: {
     // used in feed.xml.njk
@@ -13,8 +13,8 @@ module.exports = {
     filename: "atom.xml",
     path: "/atom.xml",
     id: "https://create-react-app.com",
-    authorName: "MV",
-    authorEmail: "maxim@villivald.com",
+    authorName: "ABC",
+    authorEmail: "iarenotamnot@gmail.com",
   },
   hero: {
     // used in hero section of main page ie. index.html.njk
